@@ -1,27 +1,41 @@
-# DriverTest
+#Study Tool for Alberta's Driving Knowledge Test
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.10.
+This project is a tool developed with Angular to help newcomers to Canada, specifically in the province of Alberta, prepare for the driving knowledge test. The application provides a set of practice questions and educational resources that facilitate learning local traffic laws and regulations in an accessible way.
 
-## Development server
+##Purpose
+The main objective of this tool is to provide an easy-to-use study platform that allows users to familiarize themselves with the content of the Alberta driving test. It is designed to support new residents aiming to obtain their driver’s license by offering questions based on the official study material and test simulations to help them feel fully prepared for the exam.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+##Features
+Test Simulations: Take mock tests to assess your preparation.
+Practice Questions: Access a bank of common questions and key topics from Alberta's driving test.
+Study Material: Resources and explanations for each answer to facilitate learning.
+User-Friendly Interface: Designed with users who may be learning English in mind, featuring clear and visual resources.
+Installation
+Clone this repository to your local machine:
 
-## Code scaffolding
+##bash
+Copia codice
+git clone https://github.com/NicoleCondeDuque/driverTest.git
+Enter the project directory:
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+##bash
+Copia codice
+cd project_name
+Install the necessary dependencies:
 
-## Build
+##bash
+Copia codice
+npm install
+Run the application:
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+##bash
+Copia codice
+ng serve
+Access the application in your browser at http://localhost:4200.
 
-## Running unit tests
+##Usage
+Navigate through the sections for practice, mock tests, and study materials.
+Complete the tests to assess your level of preparation and review incorrect answers with the explanations provided.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+##Contributions
+If you have suggestions, find any issues, or want to improve this tool, contributions are welcome. Please open an issue or send a pull request.
