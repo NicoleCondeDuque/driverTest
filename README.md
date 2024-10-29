@@ -1,4 +1,4 @@
-# 🚗 Study Tool for Alberta's Driving Knowledge Test
+# 🚗✨ Study Tool for Alberta's Driving Knowledge Test
 
 This project is a tool developed with Angular to help newcomers to Canada, specifically in the province of Alberta, prepare for the driving knowledge test. The application provides a set of practice questions and educational resources that facilitate learning local traffic laws and regulations in an accessible way.
 
