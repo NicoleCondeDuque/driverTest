@@ -1,6 +1,26 @@
-<div class="d-flex align-items-center justify-content-center vh-100" >
-  <div class="row" >
-    <div class="col-12 text-center">
+<div class="d-flex align-items-center justify-content-center vh-100">
+  <div class="card">
+    <div class="card-welcome">
+      <h2 class="welcome-title">Bienvenido/a</h2>
+      <div class="instructions">
+        <p class="section-instrutions">
+          Este test es una práctica para mejorar tus habilidades en el examen de conductores de licencia básica de Alberta. <br> Sigue las instrucciones a continuación para comenzar:
+        </p>
+        <ol>
+          <li>Inténtalo todas las veces que necesites.</li>
+          <li>Una práctica de 108 preguntas.</li>
+          <li>Si no sabes la respuesta, siempre puedes pasar a la siguiente pregunta.</li>
+          <li>Completa las actividades para mejorar tus habilidades.</li>
+          <li>Haz clic en el botón "Iniciar".</li>
+        </ol>
+      </div>
+      
+    </div>
+    <div class="name col-md-6">
+      <label for="">Coloca tu nombre:</label>
+<input type="text" class="form-control">
+    </div>
+    <div class="content">
       <div class="loader">
         <div class="truckWrapper">
           <div class="truckBody">
@@ -47,8 +67,7 @@
           </svg>
         </div>
       </div>
-      <button type="button" [routerLink]="'/questions'" class="btn btn-outline-dark mt-2">Iniciar practica</button>
+      <button type="button" [routerLink]="'/questions'" class="btn btn-outline-dark mt-2">Iniciar</button>
     </div>
   </div>
 </div>
-
