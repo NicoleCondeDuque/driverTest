@@ -1,44 +1,24 @@
-# 🚗✨ Study Tool for Alberta's Driving Knowledge Test
+# Driving Test in Spanish for Calgary
 
-This project is a tool developed with Angular to help newcomers to Canada, specifically in the province of Alberta, prepare for the driving knowledge test. The application provides a set of practice questions and educational resources that facilitate learning local traffic laws and regulations in an accessible way.
+This project was inspired by the idea of creating an accessible and useful resource for the Latin community in Calgary preparing for their driving test. Observing that most available resources are in English, I developed this test in Spanish to simplify the learning process and share it with the community.
 
-## Purpose
-- The main objective of this tool is to provide an easy-to-use study platform that allows users to familiarize themselves with the content of the Alberta driving test. It is designed to support new residents aiming to obtain their driver’s license by offering questions based on the official study material and test simulations to help them feel fully prepared for the exam.
+## Project Description
+
+The Driving Test in Spanish for Calgary is a web application built with Angular. It provides users with a series of questions designed to simulate the actual driving test. The goal is to help users familiarize themselves with the format of the test and the type of questions they may encounter.
 
 ## Features
-- Test Simulations: Take mock tests to assess your preparation.
-Practice Questions: Access a bank of common questions and key topics from Alberta's driving test.
-Study Material: Resources and explanations for each answer to facilitate learning.
-User-Friendly Interface: Designed with users who may be learning English in mind, featuring clear and visual resources.
-Installation
-Clone this repository to your local machine:
+- User-friendly and intuitive interface
+- Up-to-date questions relevant to Calgary's driving test
+- Immediate feedback for each answer
+- Review section for incorrect answers
+- Responsive design for optimal experience on mobile devices
+- Technologies Used
 
-## bash
-Copia codice
-git clone https://github.com/NicoleCondeDuque/driverTest.git
-Enter the project directory:
-
-## bash
-```sh
-Copia codice
-cd project_name
-Install the necessary dependencies:
-```
-## bash
-```sh
-Copia codice
-npm install
-Run the application:
-```
-## bash
-```sh
-Copia codice
-ng serve
-Access the application in your browser at http://localhost:4200.
-```
-## Usage
-- Navigate through the sections for practice, mock tests, and study materials.
-Complete the tests to assess your level of preparation and review incorrect answers with the explanations provided.
+## Technologies Used
+- Angular: Main framework for building the web application.
+- TypeScript: Programming language for structuring and writing the code.
+- Bootstrap: For responsive design and basic styling.
+- Git: Version control and collaboration.
 
 ## Contributions
-> If you have suggestions, find any issues, or want to improve this tool, contributions are welcome. Please open an issue or send a pull request.
+Contributions are welcome! If you have ideas to improve the project or add new features, feel free to clone the repository or send me an email [www.nicoleconde.com] . I’m always looking for ways to improve, and I would greatly appreciate your help. 😊

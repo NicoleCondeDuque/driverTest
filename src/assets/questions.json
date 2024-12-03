@@ -1,0 +1,2209 @@
+
+    {
+    "questions": [
+        {
+            "id": 1,
+            "question": "A menos que se indique lo contrario, ¿cuál es el límite de velocidad básico fuera de una ciudad, pueblo o aldea en una carretera principal?",
+            "options": [
+                {
+                    "text": "100 km/h",
+                    "correct": true
+                },
+                {
+                    "text": "90 kilómetros por hora"
+                },
+                {
+                    "text": "110 kilómetros por hora"
+                },
+                {
+                    "text": "80 kilómetros por hora"
+                }
+            ],
+            "explenation": "El límite de velocidad básico fuera de áreas urbanas (ciudades, pueblos o aldeas) en una carretera principal en Alberta, a menos que se indique lo contrario, es de 100 km/h. Esto significa que, si no ves señales de velocidad específicas, puedes asumir que 100 km/h es la velocidad permitida. ¡Recuerda siempre estar atento a las señales en el camino para ajustarte si es necesario! 🚗💨"
+        },
+        {
+            "id": 2,
+            "question": "Al dar marcha atrás a un vehículo de pasajeros hacia la izquierda, el conductor debe:",
+            "options": [
+                {
+                    "text": "Mire por el espejo retrovisor interior y haga los ajustes necesarios en la dirección"
+                },
+                {
+                    "text": "Mire por encima del hombro derecho con miradas ocasionales al frente"
+                },
+                {
+                    "text": "Mire por encima del hombro izquierdo con miradas ocasionales al frente",
+                    "correct": true
+                },
+                {
+                    "text": "Sin revisar el hombro, use los espejos retrovisores interiores y exteriores para asegurar la mejor vista hacia la parte trasera y ambos lados del vehículo"
+                }
+            ],
+            "explenation": "Al dar marcha atrás hacia la izquierda en un vehículo de pasajeros, el conductor debe mirar por encima del hombro izquierdo, ya que esto le proporciona la mejor visibilidad de la dirección hacia la que se mueve el vehículo. También es importante echar miradas ocasionales hacia el frente para asegurarse de que todo esté despejado. Esto ayuda a mantener control y seguridad durante la maniobra. 🚗👀"
+        },  
+        {
+            "id": 3,
+            "question": "Al acercarse a una intersección y enfrentarse a un semáforo que muestra una flecha verde para girar a la derecha y una luz roja, el conductor:",
+            "options": [
+                {
+                   "text": "Debe detenerse y esperar una luz verde antes de girar en la dirección de la flecha"
+                },
+                {
+                   "text": "Puede atravesar la intersección sin detenerse"
+                },
+                {
+                    "text": "Puede proceder cuando sea seguro, sin detenerse, en la dirección de la flecha",
+                    "correct": true
+                },
+                {
+                    "text": "Puede girar a la izquierda sin detenerse"
+                }
+            ],
+            "explenation": "Cuando te acerques a una intersección con una flecha verde para girar a la derecha y una luz roja, el conductor puede proceder en la dirección de la flecha verde sin detenerse, siempre y cuando sea seguro hacerlo. La flecha verde indica que tienes el derecho de paso para ese giro. 🚦➡️"
+        },
+        {
+            "id": 4,
+            "question": "Alberta tiene un sistema de puntos de demérito en el que un conductor con licencia completa (no aprendiz, no en período de prueba) es suspendido cuando acumula:",
+            "options": [
+                {
+                    "text": "15 puntos",
+                    "correct": true
+                },
+                {
+                    "text": "8 puntos"
+                },
+                {
+                    "text": "5 puntos"
+                },
+                {
+                    "text": "12 puntos"
+                }
+            ],
+            "explenation": "En Alberta, un conductor con licencia completa (que no sea aprendiz ni esté en período de prueba) es suspendido al acumular 15 puntos de demérito. Los puntos de demérito se añaden al historial del conductor por infracciones de tránsito, y alcanzar este límite significa que tu licencia será suspendida. ¡Conduce con precaución para evitar acumular puntos! 🚗❌"
+        },
+        {
+            "id": 5,
+            "question": "Al adelantar a un camión grande en una carretera de dos vías, el conductor debe:",
+            "options": [
+                {
+                   "text": "Deje espacio extra antes de regresar a su carril",
+                    "correct": true
+                },
+                {
+                   "text": "Regrese a su carril cuando lo indiquen los faros del camión"
+                },
+                {
+                    "text": "Regrese a su carril cuando el camión ya no sea visible en ninguno de sus espejos retrovisores"
+                },
+                {
+                    "text": "Regrese a su carril una vez que hayan pasado el parachoques delantero del camión"
+                }
+            ],
+            "explenation": "Cuando adelantes un camión grande en una carretera de dos vías, debes dejar espacio extra antes de regresar a tu carril. Esto es crucial porque los camiones tienen puntos ciegos más grandes y necesitan más distancia para frenar. Si regresas al carril demasiado pronto, podrías entrar en su punto ciego o crear una situación peligrosa. Asegúrate de que el camión sea completamente visible en tu espejo retrovisor antes de cambiar de carril. ¡La seguridad siempre es primero! 🚛✅"
+        },
+        {
+            "id": 6,
+            "question": "¿Qué enunciado describe mejor los pasos para girar a la derecha en un semáforo en rojo?",
+            "options": [
+                {
+                    "text": "Nunca se permiten giros a la derecha en un semáforo en rojo"
+                },
+                {
+                   "text": "Señale y asegúrese de que no haya ninguna señal que prohíba el giro, deténgase, mire a la izquierda y a la derecha, ceda el paso y luego continúe",
+                    "correct": true
+                },
+                {
+                    "text": "Reduzca la velocidad antes del giro, mire a la derecha para ver si hay ciclistas, señale y continúe"
+                },
+                {
+                    "text": "Señale y reduzca la velocidad antes del giro, mire a la izquierda, ceda el paso a los vehículos y continúe"
+                }
+            ],
+            "explenation": "Cuando giras a la derecha en un semáforo en rojo, debes detenerte por completo antes de la línea de parada o el cruce peatonal, incluso si planeas girar. Primero, verifica si hay señales que prohíban girar en rojo; si las hay, espera a que el semáforo esté en verde. Cede siempre el paso a los peatones que cruzan y a los vehículos que tienen prioridad en la intersección. Solo gira cuando sea completamente seguro hacerlo. ¡Recuerda, la seguridad es lo primero! 🚦➡️"
+        },
+        {
+            "id": 7,
+            "question": "Esta señal indica:",
+            "options": [
+                {
+                    "text": "Ruta para vehículos de más de 4500 kg"
+                },
+                {
+                    "text": "Ruta para vehículos lentos"
+                },
+                {
+                    "text": "Carril reservado para autobuses"
+                },
+                {
+                    "text": "Ruta de mercancías peligrosas",
+                    "correct": true
+                }
+            ],
+            "explenation": "Esta señal indica una ruta designada para el transporte de mercancías peligrosas. Los conductores de vehículos que transportan materiales peligrosos deben seguir estas rutas específicas para minimizar riesgos y garantizar la seguridad pública. Estas rutas suelen evitar zonas densamente pobladas o áreas sensibles. ¡Sigue las señales y las regulaciones para un transporte seguro! 🚛⚠️",
+            "image": "/assets/senales/senal_indica_6.png"
+        },
+        {
+            "id": 8,
+            "question": "Una sola línea blanca continua entre los carriles de circulación en un área urbana significa:",
+            "options": [
+                {
+                   "text": "Es una línea que separa el tráfico que viaja en direcciones opuestas"
+                },
+                {
+                    "text": "El tráfico a la derecha se mueve más rápido que el tráfico a la izquierda"
+                },
+                {
+                    "text": "No se permite el cambio de carril",
+                    "correct": true
+                },
+                {
+                    "text": "Se permite el cambio de carril"
+                }
+            ],
+            "explenation": "Una sola línea blanca continua entre los carriles de circulación en un área urbana indica que cambiar de carril está permitido, pero debe hacerse con extrema precaución. Esta línea señala que el cambio de carril no es ideal en esa zona debido a posibles riesgos, como intersecciones cercanas o alta densidad de tráfico. Siempre asegúrate de que sea seguro antes de cambiar de carril. ¡Respeta las señales para mantener la seguridad vial! 🚗"
+        },
+        {
+            "id": 9,
+            "question": "Un 'carril de estacionamiento', según se define en el Manual del conductor con licencia básica, es:",
+            "options": [
+                {
+                    "text": "Un carril más cercano a la acera, donde se permite estacionar pero no hay parquímetros"
+                },
+                {
+                    "text": "Todas estas respuestas son correctas"
+                },
+                {
+                    "text": "La parte de una carretera principal entre el borde de la carretera a la derecha de la dirección del tráfico y la línea blanca sólida más cercana, que no es la línea central, marcada en la carretera",
+                    "correct": true
+                },
+                {
+                    "text": "Un carril inmediatamente al lado de una fila de parquímetros en un área urbana"
+                }
+            ],
+            "explenation": "Un 'carril de estacionamiento', según el Manual del conductor con licencia básica, es un carril designado al costado de la carretera donde los vehículos pueden detenerse o estacionarse temporalmente. Este carril no está destinado para la circulación de tránsito regular. Es importante usar este carril solo para estacionar de forma segura y respetar las regulaciones locales, como límites de tiempo o señales específicas. 🚗🅿️"
+        },
+        {
+            "id": 10,
+            "question": "Medios de control del hombro:",
+            "options": [
+                {
+                   "text": "Mirar hacia el punto ciego en la dirección en la que el conductor intenta moverse",
+                    "correct": true
+                },
+                {
+                   "text": "Mirando por el espejo exterior izquierdo"
+                },
+                {
+                   "text": "Mirar por los espejos interiores y exteriores"
+                },
+                {
+                    "text": "Mirando por el espejo exterior derecho"
+                }
+            ],
+            "explenation": "Los medios de control del hombro se refieren a las prácticas y señales utilizadas para guiar el uso seguro del arcén o hombro de una carretera. Esto incluye líneas marcadas, señales que indican si el arcén puede usarse para emergencias, y dispositivos como barreras para limitar el acceso. Los hombros están diseñados para emergencias, detenciones temporales o acceso controlado, no para el tránsito regular. Usarlos incorrectamente puede generar situaciones peligrosas. 🚧🛑"
+        },
+        {
+            "id": 11,
+            "question": "Esta señal indica:",
+            "options": [
+                {
+                   "text": "Instalaciones todoterreno más adelante"
+                },
+                {
+                    "text": "Resbaladizo cuando está mojado"
+                },
+                {
+                    "text": "Pavimento irregular",
+                    "correct": true
+                },
+                {
+                    "text": "Desvío adelante"
+                }
+            ],
+            "explenation": "Esta señal indica Pavimento irregular y advierte a los conductores sobre superficies de la carretera que pueden ser desiguales, como baches, desniveles o transiciones bruscas en el pavimento. Reduce la velocidad y mantén el control del vehículo para evitar daños o pérdida de estabilidad. ¡Conduce con precaución! 🚧⚠️",
+            "image": "/assets/senales/senal_indica_11.png"    
+        }, 
+        {
+            "id": 12,
+            "question": "Una luz de control de carril de tráfico con una 'X' roja iluminada significa:",
+            "options": [
+                {
+                    "text": "Prepárese para un vehículo de emergencia que viaja en ese carril"
+                },
+                {
+                    "text": "Reducir la velocidad por debajo de 30 km/h"
+                },
+                {
+                    "text": "Use ese carril solo con el propósito de girar a la izquierda"
+                },
+                {
+                    "text": "No se permite viajar en ese carril",
+                    "correct": true
+                }
+            ],
+            "explenation": "Una luz de control de carril de tráfico con una 'X' roja iluminada significa que no está permitido viajar en ese carril. Este sistema se utiliza para gestionar el flujo de tráfico, y un carril con esta señal está cerrado para el tránsito. Los conductores deben cambiar de carril de forma segura y obedecer la señal para evitar sanciones o accidentes. 🚦❌",
+            "image": "/assets/senales/senal_indica_12.png"   
+        },
+        {
+            "id": 13,
+            "question": "¿Tiene un padre el derecho de retirar un 'consentimiento de los padres' otorgado previamente a alguien menor de 18 años con respecto a una licencia de operador?",
+            "options": [
+                {
+                   "text": "Sí, siempre que la persona sea menor de 18 años y no sea autosuficiente ni esté casada",
+                    "correct": true
+                },
+                {
+                    "text": "Sí, siempre que ambos padres acuerden verbalmente retirar el consentimiento en una oficina de registro"
+                },
+                {
+                    "text": "No, una vez administrado permanece en vigor hasta que la persona cumpla los 18 años"
+                },
+                {
+                    "text": "No, pero ambos padres deben firmar otro formulario de consentimiento después de la suspensión de la licencia"
+                }
+            ],
+            "explenation": "En Alberta, los conductores menores de 18 años necesitan el consentimiento de sus padres o tutores legales para obtener una licencia de conducir. Este consentimiento puede ser retirado en cualquier momento antes de que el menor cumpla 18 años, lo que resultaría en la cancelación de la licencia. Por lo tanto, los padres tienen el derecho de revocar el consentimiento previamente otorgado, y al hacerlo, la licencia del menor sería cancelada."
+        },
+        {
+            "id": 14,
+            "question": "Al acercarse a una señal de ceder el paso, debe:",
+            "options": [
+                {
+                    "text": "Ceda el paso al tráfico que no esté frente a la señal y a todos los peatones en la intersección",
+                    "correct": true
+                },
+                {
+                   "text": "Siempre suene la bocina para advertir al resto del tráfico dentro de la intersección"
+                },
+                {
+                   "text": "Espere que todos los demás vehículos le cedan el paso"
+                },
+                {
+                    "text": "Deténgase y continúe después de mirar a la derecha y a la izquierda"
+                }
+            ],
+            "explenation": "Al acercarse a una señal de Ceder el paso (Yield), debes reducir la velocidad y prepararte para detenerte si es necesario. Da prioridad a los vehículos y peatones que ya están en la intersección o en el camino principal al que te incorporas. Solo procede cuando sea seguro y no interfieras con el tráfico. ¡Recuerda siempre ceder el paso para evitar accidentes! 🚦👥✅"
+        },
+        {
+            "id": 15,
+            "question": "El término 'sobrecargar' los faros delanteros durante la noche significa:",
+            "options": [
+                {
+                    "text": "El conductor no puede ver claramente en 1000 metros"
+                },
+                {
+                    "text": "Los faros de luz de cruce no están configurados correctamente"
+                },
+                {
+                    "text": "El conductor viaja a una velocidad que no le permitiría ver un objeto a tiempo para detenerse",
+                    "correct": true
+                },
+                {
+                    "text": "El conductor ha tenido los faros encendidos durante demasiado tiempo"
+                }
+            ],
+            "explenation": "El término sobrecargar los faros delanteros durante la noche significa que estás conduciendo a una velocidad tal que no podrías detenerte a tiempo dentro del rango iluminado por tus faros. Esto es peligroso porque podrías no tener suficiente tiempo para reaccionar ante obstáculos, peatones u otros peligros en la carretera.🌌🚗💡"
+        } ,
+        {
+            "id": 16,
+            "question": "Bajo el programa de Licencias de Conducir Graduadas, un conductor recibirá 2 deméritos:",
+            "options": [
+                {
+                    "text": "Por tener más pasajeros que cinturones de seguridad",
+                    "correct": true
+                },
+                {
+                    "text": "Por no llevar el cinturón de seguridad abrochado de forma segura"
+                },
+                {
+                    "text": "Por no llevar cinturón de seguridad"
+                },
+                {
+                    "text": "Por no llevar el cinturón de seguridad debidamente ajustado"
+                }
+            ],
+            "explenation": "Bajo el programa de Licencias de Conducir Graduadas (GDL) en Alberta, los conductores novatos enfrentan sanciones más estrictas por infracciones de tránsito. Acumular 2 puntos de demérito puede resultar de infracciones como no usar el cinturón de seguridad o realizar giros prohibidos. Es esencial conducir con precaución y respetar las normas de tránsito para evitar la acumulación de puntos de demérito y posibles sanciones adicionales."
+        },
+        {
+            "id": 17,
+            "question": "Usando la regla de los 2 segundos para juzgar una distancia segura de seguimiento al conducir:",
+            "options": [
+                {
+                    "text": "Es más preciso en las carreteras rurales que en los centros urbanos"
+                },
+                {
+                    "text": "No es precisa a velocidades superiores a 100 km/h"
+                },
+                {
+                    "text": "Es preciso a cualquier velocidad",
+                    "correct": true
+                },
+                {
+                    "text": "No es precisa a velocidades inferiores a 30 km/h"
+                }
+            ],
+            "explenation": "Usar la regla de los 2 segundos al conducir te ayuda a mantener una distancia segura del vehículo que va delante"
+        },
+        {
+            "id": 18,
+            "question": "Esta señal indica:",
+            "options": [
+                {
+                    "text": "Tráfico entrando por la derecha"
+                },
+                {
+                    "text": "Sinuoso camino por delante"
+                },
+                {
+                    "text": "Curva a la derecha",
+                    "correct": true
+                },
+                {
+                    "text": "Intersección oculta a la derecha"
+                }
+            ],
+            "explenation": "Esta señal indica una Curva a la derecha y advierte al conductor que el camino adelante gira en esa dirección. Reduce la velocidad antes de la curva y mantén el control del vehículo mientras giras. Siempre presta atención a estas señales para anticiparte a los cambios en la carretera y conducir de manera segura. 🚗↪️",
+            "image": "/assets/senales/senal_indica_18.png"  
+        },
+        {
+            "id": 19,
+            "question": "Un conductor que se acerca a un semáforo en rojo intermitente debe:",
+            "options": [
+                {
+                   "text": "Detente y espera la luz verde intermitente"
+                },
+                {
+                    "text": "Reduzca la velocidad y proceda con precaución"
+                },
+                {
+                    "text": "Deténgase y proceda solo cuando sea seguro hacerlo",
+                    "correct": true
+                },
+                {
+                    "text": "Deténgase hasta que la luz de la señal se vuelva verde"
+                }
+            ],
+            "explenation": "Un conductor que se acerca a un semáforo en rojo intermitente debe tratarlo como una señal de “pare” (stop"
+        },
+        {
+            "id": 20,
+            "question": "Esta señal indica:",
+            "options": [
+                {
+                    "text": "No entrar"
+                },
+                {
+                    "text": "Vehículos de movimiento lento adelante"
+                },
+                {
+                   "text": "Advertencia, ceda el paso adelante",
+                    "correct": true
+                },
+                {
+                    "text": "Advertencia, el tráfico se acerca"
+                }
+            ],
+            "explenation": "Esta señal indica Advertencia, ceda el paso adelante y te informa que te aproximas a una intersección donde deberás ceder el paso. Reduce la velocidad y prepárate para detenerte si es necesario. Da prioridad a los vehículos y peatones que tengan el derecho de paso antes de continuar.⚠️👥",
+            "image": "/assets/senales/senal_indica_20.png"  
+        },
+        {
+            "id": 21,
+            "question": "De acuerdo con la ley de Alberta, ¿es responsabilidad del conductor asegurarse de que todos los pasajeros menores de esa edad estén correctamente sujetos en el vehículo?",
+            "options": [
+                {
+                    "text": "18 años"
+                },
+                {
+                    "text": "24 años"
+                },
+                {
+                    "text": "21 años"
+                },
+                {
+                    "text": "16 años",
+                    "correct": true
+                }
+            ],
+            "explenation": "En Alberta, es responsabilidad del conductor asegurarse de que todos los pasajeros menores de 16 años estén correctamente sujetos en el vehículo."
+        },
+        {
+            "id": 22,
+            "question": "Al estacionar en paralelo, las ruedas del vehículo más cercanas a la acera deben estar dentro de qué distancia máxima?",
+            "options": [
+                {
+                    "text": "80 centímetros de la acera"
+                },
+                {
+                    "text": "30 centímetros del bordillo"
+                },
+                {
+                    "text": "10 centímetros del bordillo"
+                },
+                {
+                    "text": "50 centímetros del bordillo",
+                    "correct": true
+                }
+            ],
+            "explenation": "Al estacionar en paralelo en Alberta, las ruedas del vehículo más cercanas al bordillo deben estar a una distancia máxima de 50 centímetros (aproximadamente 20 pulgadas)."
+        },
+        {
+            "id": 23,
+            "question": "¿Quién es responsable y está legalmente obligado a informar sobre cualquier condición médica, cambio de salud o discapacidad física que pueda afectar la capacidad de un conductor para conducir?",
+            "options": [
+                {
+                    "text": "El empleador del conductor"
+                },
+                {
+                   "text": "El conductor",
+                    "correct": true
+                },
+                {
+                    "text": "El doctor del conductor"
+                },
+                {
+                    "text": "La compañía de seguros del conductor"
+                }
+            ],
+            "explenation": "Es responsabilidad del conductor informar sobre cualquier condición médica, cambio de salud o discapacidad física que pueda afectar su capacidad para conducir de manera segura"
+        },
+        {
+            "id": 24,
+            "question": "Esta señal indica:",
+            "options": [
+                {
+                    "text": "El camino se estrecha, a la izquierda",
+                    "correct": true
+                },
+                {
+                    "text": "Tráfico en ambas direcciones"
+                },
+                {
+                    "text": "Fin de la autopista dividida"
+                },
+                {
+                   "text": "Obstrucción: manténgase a la izquierda"
+                }
+            ],
+            "explenation": "Esta señal indica que el camino se estrecha hacia la izquierda y advierte al conductor que el carril o la carretera se reduce en esa dirección. 🚗⬅️",
+            "image": "/assets/senales/senal_indica_24.png" 
+        },
+        {
+            "id": 25,
+            "question": "Esta señal indica:",
+            "options": [
+                {
+                   "text": "Bandas sonoras"
+                },
+                {
+                   "text": "Zona en construcción"
+                },
+                {
+                   "text": "Protuberancia",
+                    "correct": true
+                },
+                {
+                    "text": "Termina el pavimento"
+                }
+            ],
+            "explenation": "Esta señal indica Protuberancia y advierte a los conductores sobre una elevación en la carretera, como un tope o resalto. Estas protuberancias están diseñadas para reducir la velocidad de los vehículos en áreas específica 🚗⚠️",
+            "image": "/assets/senales/senal_indica_24.png" 
+        },
+        {
+            "id": 26,
+            "question": "Bajo el programa de Licencias de Conducir Graduadas, ¿cuál es la cantidad mínima de tiempo que una persona debe servir como conductor de prueba de Clase 5?",
+            "options": [
+                {
+                    "text": "6 meses"
+                },
+                {
+                   "text": "18 meses"
+                },
+                {
+                  "text": "2 años",
+                    "correct": true
+                },
+                {
+                    "text": "1 año"
+                }
+            ],
+            "explenation": "Bajo el programa de Licencias de Conducir Graduadas (GDL) en Alberta, un conductor debe mantener una licencia de prueba de Clase 5 por un mínimo de 24 meses."
+        },
+        {
+            "id": 27,
+            "question": "Una gran 'X' pintada en el pavimento indica:",
+            "options": [
+                {
+                    "text": "Construcción por delante"
+                },
+                {
+                    "text": "El carril de tráfico está terminando"
+                },
+                {
+                    "text": "Cruce de ferrocarril más adelante",
+                    "correct": true
+                },
+                {
+                   "text": "Animal salvaje cruzando adelante"
+                }
+            ],
+            "explenation": "Una gran 'X' pintada en el pavimento indica la proximidad a un cruce ferroviario."
+        },
+        {
+            "id": 28,
+            "question": "Se requiere que un conductor informe a la policía todas las colisiones cuando haya personas heridas o muertas, o cuando el daño combinado a todos los vehículos o la propiedad sea mayor que:",
+            "options": [
+                {
+                    "text": "$750"
+                },
+                {
+                    "text": "$1000",
+                    "correct": true
+                },
+                {
+                    "text": "$250"
+                },
+                {
+                    "text": "$500"
+                }
+            ],
+            "explenation": "A partir del 1 de enero de 2024, en Alberta, los conductores están obligados a informar a la policía sobre cualquier colisión que resulte en lesiones, muertes o cuando el daño combinado a todos los vehículos o propiedades sea superior a $1,000"
+        },
+        {
+            "id": 29,
+            "question": "Cuando un conductor se detiene detrás de otro vehículo en el tráfico:",
+            "options": [
+                {
+                    "text": "Manténgase a un mínimo de 10 metros del vehículo de adelante"
+                },
+                {
+                    "text": "Deje suficiente espacio para moverse a otro carril sin dar marcha atrás",
+                    "correct": true
+                },
+                {
+                    "text": "Mantenga suficiente espacio según lo determinado por la regla de los 2 segundos"
+                },
+                {
+                    "text": "Manténgase alejado aproximadamente a 1 metro del parachoques trasero del vehículo de adelante"
+                }
+            ],
+            "explenation": "Deja un espacio seguro para protegerte y adaptarte a cualquier situación inesperada"
+        },
+        {
+            "id": 30,
+            "question": "Si otro vehículo lo sigue demasiado cerca, ¿qué debe hacer un conductor?",
+            "options": [
+                {
+                   "text": "Reduzca la velocidad gradualmente y anime al otro vehículo a pasar",
+                    "correct": true
+                },
+                {
+                    "text": "Presione con fuerza el pedal del freno"
+                },
+                {
+                   "text": "Aumente la velocidad a 10 km/h por encima del límite de velocidad publicado"
+                },
+                {
+                   "text": "Activar las luces intermitentes de cuatro direcciones"
+                }
+            ],
+            "explenation": "Si otro vehículo lo sigue demasiado cerca, el conductor debe mantener la calma y no frenar de manera repentina."
+        },
+        {
+            "id": 31,
+            "question": "Al recuperarse de un patinazo, el conductor debe:",
+            "options": [
+                {
+                    "text": "Acelerar y conducir en la dirección opuesta al patinaje"
+                },
+                {
+                   "text": "Freno y contraviraje"
+                },
+                {
+                   "text": "Dirija en la dirección en la que el conductor quiere que vaya la parte delantera del vehículo",
+                    "correct": true
+                },
+                {
+                  "text": "Frene y sujete firmemente el volante"
+                }
+            ],
+            "explenation": "Al recuperarse de un patinazo, mantén la calma, evita frenar bruscamente y dirige el volante hacia la dirección en la que deseas que el vehículo se recupere."
+        },
+        {
+            "id": 32,
+            "question": "Se debe colocar un letrero de 'vehículo de movimiento lento' en la parte trasera de cualquier vehículo que normalmente viaja a velocidades inferiores a:",
+            "options": [
+                {
+                   "text": "50 km/h"
+                },
+                {
+                    "text": "40 km/h",
+                    "correct": true
+                },
+                {
+                   "text": "70 kilómetros por hora"
+                },
+                {
+                    "text": "60 km/h"
+                }
+            ],
+            "explenation": "En Alberta, cualquier vehículo que normalmente circula a velocidades inferiores a 40 km/h debe llevar un letrero de 'vehículo de movimiento lento' en la parte trasera."
+        },
+        {
+            "id": 33,
+            "question": "Un conductor que intenta girar a la izquierda en un semáforo verde fijo:",
+            "options": [
+                {
+                    "text": "Tiene el derecho de paso sobre el tráfico que se aproxima"
+                },
+                {
+                    "text": "Debe detenerse antes de la línea del paso de peatones y luego continuar"
+                },
+                {
+                    "text": "Tiene el derecho de paso sobre los peatones"
+                },
+                {
+                    "text": "No debe cruzar el camino de un vehículo que se aproxima a menos que sea seguro",
+                    "correct": true
+                }
+            ],
+            "explenation": "Un conductor que intenta girar a la izquierda en un semáforo verde fijo debe ceder el paso a los vehículos que se aproximan en dirección contraria y a los peatones que crucen en la intersección."
+        },
+        {
+            "id": 34,
+            "question": "Una 'zona de tejido' se describe mejor como:",
+            "options": [
+                {
+                    "text": "Un lugar en una autopista donde los carriles de entrada y salida están muy juntos, y los vehículos que disminuyen la velocidad para salir de la autopista deben conducir entre vehículos que aceleran para ingresar a la autopista",
+                    "correct": true
+                },
+                {
+                  "text": "Un área en la carretera que se usa para estacionamiento de emergencia"
+                },
+                {
+                    "text": "Un lugar donde la carretera tiene una serie de curvas que obligan al conductor a reducir la velocidad"
+                },
+                {
+                   "text": "Un área de acceso limitado en una carretera donde un conductor puede retroceder legalmente con su vehículo cuando se pierde la salida"
+                }
+            ],
+            "explenation": "Una 'zona de tejido' se refiere a la configuración y organización de las unidades que componen una ciudad, incluyendo la disposición de vías, manzanas y edificios. "
+        },
+        {
+            "id": 35,
+            "question": "Un examinador de conductores rechazará un examen práctico si:",
+            "options": [
+                {
+                    "text": "El vehículo tiene una capacidad de asientos superior a 7"
+                },
+                {
+                    "text": "El vehículo está registrado como vehículo agrícola"
+                },
+                {
+                    "text": "El vehículo es un vehículo de alquiler"
+                },
+                {
+                    "text": "El vehículo no es mecánicamente seguro",
+                    "correct": true
+                }
+            ],
+            "explenation": "Un examinador de conductores rechazará un examen práctico si el vehículo no cumple con los requisitos básicos de seguridad, como luces o frenos en mal estado, o si el conductor no presenta la documentación requerida, como licencia válida y comprobante de seguro.🚗🛠️"
+        },
+        {
+            "id": 36,
+            "question": "¿Se permite que un conductor exceda el límite de velocidad cuando rebasa a otro vehículo?",
+            "options": [
+                {
+                    "text": "Solo al adelantar a más de un vehículo a la vez"
+                },
+                {
+                    "text": "Sí, pero no más de 10 km/h por encima del límite de velocidad"
+                },
+                {
+                    "text": "Sí, solo en carreteras principales"
+                },
+                {
+                    "text": "No, nunca está permitido",
+                    "correct": true
+                }
+            ],
+            "explenation": "No, un conductor no está permitido exceder el límite de velocidad al rebasar a otro vehículo.⚠️📏"
+        },
+        {
+            "id": 37,
+            "question": "Esta señal indica:",
+            "options": [
+                {
+                    "text": "Niños jugando en zona residencial"
+                },
+                {
+                    "text": "Paso de peatones adelante"
+                },
+                {
+                    "text": "Área de la escuela",
+                    "correct": true
+                },
+                {
+                    "text": "Zona de juegos"
+                }
+            ],
+            "explenation": "Esta señal indica Área de la escuela y advierte a los conductores que están entrando en una zona donde es probable encontrar estudiantes y cruces escolares. 🚸🏫",
+            "image": "/assets/senales/senal_indica_37.png" 
+        },
+        {
+            "id": 38,
+            "question": "Se debe respetar el límite de velocidad en una zona de construcción:",
+            "options": [
+                {
+                    "text": "Solo durante las horas del día"
+                },
+                {
+                    "text": "Solo cuando una persona de la bandera se coloca cerca"
+                },
+                {
+                    "text": "En todo momento",
+                    "correct": true
+                },
+                {
+                    "text": "Solo cuando hay trabajadores de la construcción presentes"
+                }
+            ],
+            "explenation": "Se debe respetar el límite de velocidad en una zona de construcción en todo momento, incluso si no hay trabajadores presentes.🚗⚠️"
+        },
+        {
+            "id": 39,
+            "question": "En un vehículo que no tiene frenos antibloqueo, el umbral de frenado se refiere a:",
+            "options": [
+                {
+                   "text": "Aplicar una fuerza de frenado uniforme en el punto justo antes de que las ruedas se bloqueen y aflojar ligeramente si las ruedas se bloquean",
+                    "correct": true
+                },
+                {
+                   "text": "Bombear el pedal del freno repetidamente hasta que el vehículo se detenga"
+                },
+                {
+                    "text": "Liberar presión sobre el pedal del freno y luego volver a aplicar presión hasta que las ruedas se bloqueen"
+                },
+                {
+                    "text": "Aplicar suficiente fuerza al pedal del freno para bloquear las ruedas y mantenerlas bloqueadas"
+                }
+            ],
+            "explenation": "En un vehículo sin frenos antibloqueo, el umbral de frenado se refiere a la técnica de aplicar los frenos con suficiente fuerza para detener el vehículo de manera efectiva, pero sin llegar a bloquear las ruedas. "
+        },
+        {
+            "id": 40,
+            "question": "Cuando el vehículo de un conductor es abordado por un vehículo de emergencia que hace sonar una sirena, desde cualquier dirección en una carretera de doble sentido, el conductor debe:",
+            "options": [
+                {
+                   "text": "Continúe a velocidad reducida y deje suficiente espacio para que pase el vehículo de emergencia"
+                },
+                {
+                    "text": "Encienda sus luces de emergencia de cuatro vías"
+                },
+                {
+                    "text": "Deténgase solo cuando el vehículo de emergencia tenga dificultades para adelantar"
+                },
+                {
+                    "text": "Conduzca lo más cerca posible del bordillo o borde derecho de la carretera y deténgase",
+                    "correct": true
+                }
+            ],
+            "explenation": "Cuando un vehículo de emergencia con sirena se aproxima desde cualquier dirección en una carretera de doble sentido, el conductor debe reducir la velocidad, desplazarse hacia el borde derecho de la carretera y detenerse por completo.🚗➡️"
+        },
+        {
+            "id": 41,
+            "question": "El procedimiento de frenado recomendado para detener un vehículo de manera normal y suave es:",
+            "options": [
+                {
+                   "text": "Aumente continuamente la presión de los frenos hasta que las ruedas se bloqueen"
+                },
+                {
+                    "text": "Cambie el vehículo a neutral y aplique presión constante al pedal del freno hasta que el vehículo se detenga"
+                },
+                {
+                   "text": "Bombee el pedal del freno suavemente hasta que el vehículo se detenga"
+                },
+                {
+                    "text": "Aplique presión de freno, afloje un poco antes de que el vehículo se detenga, luego vuelva a aplicar suficiente presión para detenerse",
+                    "correct": true
+                }
+            ],
+            "explenation": "El procedimiento de frenado recomendado para detener un vehículo de manera normal y suave consiste en aplicar presión gradual y constante al pedal del freno.🛑✔️"
+        },
+        {
+            "id": 42,
+            "question": "En Alberta, la ley exige que se usen cinturones de seguridad:",
+            "options": [
+                {
+                    "text": "Solo mientras transporta pasajeros"
+                },
+                {
+                   "text": "Adecuadamente en todo momento",
+                    "correct": true
+                },
+                {
+                   "text": "Solo cuando se conduce a velocidades de autopista"
+                },
+                {
+                    "text": "Solo cuando se conduce por la ciudad"
+                }
+            ],
+            "explenation": "En Alberta, la ley exige que se usen cinturones de seguridad en todo momento mientras el vehículo está en movimiento. 🔒👥"
+        },
+        {
+            "id": 43,
+            "question": "Esta señal indica:",
+            "options": [
+                {
+                  "text": "Solo camiones pesados"
+                },
+                {
+                   "text": "No pasar",
+                   "correct": true
+                },
+                {
+                   "text": "No se permiten vehículos"
+                },
+                {
+                    "text": "No entrar"
+                }
+            ],
+            "explenation": "Esta señal indica No pasar y advierte a los conductores que no está permitido adelantar a otros vehículos en esta zona. Esto puede deberse a condiciones peligrosas como curvas, colinas o intersecciones cercanas.",
+            "image": "/assets/senales/senal_indica_43.png" 
+        },
+        {
+            "id": 44,
+            "question": "Un conductor que ingresa a una rotonda:",
+            "options": [
+                {
+                    "text": "Debe ceder el paso al tráfico por la derecha"
+                },
+                {
+                    "text": "Debe ceder el paso a los vehículos en la rotonda",
+                    "correct": true
+                },
+                {
+                    "text": "Tiene el derecho de paso"
+                },
+                {
+                    "text": "Debe usar la regla de cortesía y ceder el paso al vehículo que llegó primero"
+                }
+            ],
+            "explenation": "Un conductor que ingresa a una rotonda debe ceder el paso a los vehículos que ya están circulando en la rotonda.↺✔️"
+        },
+        {
+            "id": 45,
+            "question": "Un carril de desaceleración es:",
+            "options": [
+                {
+                   "text": "Un carril donde los vehículos reducen la velocidad al salir de una carretera",
+                    "correct": true
+                },
+                {
+                    "text": "El carril derecho de una carretera de cuatro carriles para uso de vehículos más lentos"
+                },
+                {
+                    "text": "El carril inmediatamente a la derecha de una línea amarilla continua en una carretera"
+                },
+                {
+                    "text": "Un carril en colinas para uso de vehículos más lentos"
+                }
+            ],
+            "explenation": "Un carril de desaceleración es un carril designado para que los conductores reduzcan su velocidad de manera segura al salir de una carretera principal o autopista.⬇️✔️"
+        },
+        {
+            "id": 46,
+            "question": "Al girar a la izquierda desde una carretera de dos vías a una de un solo sentido, ¿a qué carril debe entrar el vehículo?",
+            "options": [
+                {
+                    "text": "El carril inmediatamente a la derecha del centro"
+                },
+                {
+                    "text": "El carril más cercano a la acera en el lado izquierdo de la carretera de un solo sentido",
+                    "correct": true
+                },
+                {
+                    "text": "El carril central de la carretera de un solo sentido"
+                },
+                {
+                    "text": "El carril derecho de la carretera de un solo sentido"
+                }
+            ],
+            "explenation": "Al girar a la izquierda desde una carretera de dos vías hacia una de un solo sentido, el vehículo debe entrar en el carril más cercano al borde izquierdo de la carretera de un solo sentido.  🚗⬅️"
+        },
+        {
+            "id": 47,
+            "question": "Cuando dos vehículos se acercan a una intersección en 'T' no controlada en ángulo recto entre sí aproximadamente al mismo tiempo:",
+            "options": [
+                {
+                    "text": "El vehículo de la izquierda debe ceder el paso",
+                    "correct": true
+                },
+                {
+                    "text": "El vehículo de la izquierda tiene el derecho de paso"
+                },
+                {
+                    "text": "El vehículo que pasa en línea recta siempre tiene el derecho de paso"
+                },
+                {
+                    "text": "Ambos vehículos deben detenerse"
+                }
+            ],
+            "explenation": "En una intersección en T no controlada, el vehículo que se encuentra en la vía que termina debe ceder el paso al tráfico en la vía continua."
+        },
+        {
+            "id": 48,
+            "question": "A menos que se permita lo contrario, ¿en qué carril debe estar un conductor para girar a la izquierda desde una carretera de un solo sentido?",
+            "options": [
+                {
+                    "text": "El carril a la derecha del centro"
+                },
+                {
+                    "text": "El carril izquierdo más cercano a la acera izquierda",
+                    "correct": true
+                },
+                {
+                    "text": "El carril se cierra a la acera derecha"
+                },
+                {
+                    "text": "El carril central"
+                }
+            ],
+            "explenation": "A menos que se indique lo contrario, un conductor debe estar en el carril más cercano al borde izquierdo de la carretera de un solo sentido para girar a la izquierda.⬅️✔️"
+        },
+        {
+            "id": 49,
+            "question": "¿Qué enunciado describe los pasos necesarios para invertir en línea recta?",
+            "options": [
+                {
+                    "text": "Mantenga ambas manos en el volante y use constantemente el espejo retrovisor interior como guía"
+                },
+                {
+                    "text": "Coloque la mano derecha en la parte superior del volante, mire por encima del hombro izquierdo y use el espejo retrovisor exterior izquierdo"
+                },
+                {
+                    "text": "Coloque la mano izquierda en la parte superior del volante y mire por encima del hombro derecho a través de la ventana trasera",
+                    "correct": true
+                },
+                {
+                    "text": "Coloque la mano izquierda en la parte inferior del volante y use ambos espejos exteriores"
+                }
+            ],
+            "explenation": "Para invertir en línea recta, primero asegúrate de que el camino esté despejado y colócate en una posición recta.🚗⬅️"
+        },
+        {
+            "id": 50,
+            "question": "Un carril de aceleración es:",
+            "options": [
+                {
+                    "text": "Un carril con marcas de líneas discontinuas",
+                    "correct": true
+                },
+                {
+                    "text": "Un carril en colinas, designado para vehículos que se mueven más rápido"
+                },
+                {
+                    "text": "El carril izquierdo de una autopista de cuatro carriles, para usar al rebasar vehículos lentos"
+                },
+                {
+                    "text": "Un carril en un área de confluencia para uso de vehículos que ingresan a la autopista"
+                }
+            ],
+            "explenation": "Un carril de aceleración es un carril designado para que los conductores aumenten su velocidad de manera segura al incorporarse a una carretera principal o autopista. "
+        },
+        {
+            "id": 51,
+            "question": "Esta señal indica:",
+            "options": [
+                {
+                   "text": "Finaliza el carril, pérdida del carril derecho",
+                    "correct": true
+                },
+                {
+                    "text": "Carril agregado (flujo libre)"
+                },
+                {
+                    "text": "Curva a la derecha"
+                },
+                {
+                    "text": "Carril de doble giro más adelante"
+                }
+            ],
+            "explenation": "Esta señal indica Finaliza el carril, pérdida del carril derecho y advierte a los conductores que el carril derecho se reduce o desaparece más adelante.✔️🚗",
+            "image": "/assets/senales/senal_indica_51.png"
+
+        },
+        {
+            "id": 52,
+            "question": "Según el programa de Licencia de Conducir Graduado, un alumno con una licencia de Clase 7 no está autorizado a conducir un vehículo entre las horas de:",
+            "options": [
+                {
+                    "text": "9:00 AM y 5:00 PM"
+                },
+                {
+                    "text": "Medianoche y 5:00 AM",
+                    "correct": true
+                },
+                {
+                    "text": "10:00 PM y 6:00 AM"
+                },
+                {
+                    "text": "Medianoche y 7:00 AM"
+                }
+            ],
+            "explenation": "Según el programa de Licencia de Conducir Graduado, un alumno con una licencia de Clase 7 no está autorizado a conducir un vehículo entre medianoche y 5:00 AM.🚗🌙"
+        },
+        {
+            "id": 53,
+            "question": "¿Qué significa un semáforo amarillo intermitente?",
+            "options": [
+                {
+                    "text": "El semáforo se pondrá verde"
+                },
+                {
+                    "text": "Deténgase hasta que la luz deje de parpadear"
+                },
+                {
+                   "text": "El semáforo se pondrá rojo",
+                   "correct": true
+                },
+                {
+                    "text": "Proceda con precaución"
+                }
+            ],
+            "explenation": "Un semáforo amarillo intermitente no indica que el semáforo se pondrá rojo, sino que advierte a los conductores que deben reducir la velocidad y proceder con precaución por la intersección. "
+        },
+        {
+            "id": 54,
+            "question": "A menos que se indique lo contrario, los límites de velocidad de la zona escolar están vigentes en los días escolares durante las siguientes horas:",
+            "options": [
+                {
+                   "text": "8:30 AM a 1 hora después del atardecer"
+                },
+                {
+                    "text": "De 8:00 AM a 9:30 AM, de 11:30 AM a 1:30 PM y de 3:00 PM a 4:30 PM",
+                    "correct": true
+                },
+                {
+                    "text": "De 8:30 AM a 9:30 AM, de 12:00 PM a 1:00 PM y de 3:30 PM a 4:00 PM"
+                },
+                {
+                   "text": "8:00 AM a 4:30 PM"
+                }
+            ],
+            "explenation": "Un semáforo amarillo intermitente no indica que el semáforo se pondrá rojo, sino que advierte a los conductores que deben reducir la velocidad y proceder con precaución por la intersección. "
+        },
+        {
+            "id": 55,
+            "question": "Esta señal indica:",
+            "options": [
+                {
+                    "text": "Zona de juegos"
+                },
+                {
+                    "text": "Paso de peatones",
+                    "correct": true
+                },
+                {
+                  "text": "Parada de autobús escolar designada"
+                },
+                {
+                    "text": "Zona escolar"
+                }
+            ],
+            "explenation": "Esta señal indica un Paso de peatones y advierte a los conductores que deben reducir la velocidad y estar preparados para detenerse si hay peatones cruzando🚶‍♀️✔️",
+            "image": "/assets/senales/senal_indica_55.png"
+
+        },
+        {
+            "id": 56,
+            "question": "Al conducir en el carril derecho en una carretera, ¿qué debe hacer un conductor si otro vehículo intenta incorporarse desde un carril de aceleración a la derecha?",
+            "options": [
+                {
+                   "text": "Deténgase para permitir que el otro vehículo entre"
+                },
+                {
+                   "text": "Acelere para cerrar cualquier brecha en el flujo de tráfico"
+                },
+                {
+                    "text": "Muévase al carril izquierdo si es seguro hacerlo, o esté preparado para ajustar la velocidad",
+                    "correct": true
+                },
+                {
+                   "text": "Insista en que el otro vehículo ceda el paso"
+                }
+            ],
+            "explenation": "Al conducir en el carril derecho en una carretera, si otro vehículo intenta incorporarse desde un carril de aceleración, el conductor debe ceder espacio y permitir que el vehículo se incorpore de manera segura.➡️✔️"
+        },
+        {
+            "id": 57,
+            "question": "¿En qué dirección deben girar las ruedas delanteras de un vehículo cuando está estacionado cuesta arriba en una carretera de dos vías con acera?",
+            "options": [
+                {
+                    "text": "Paralelo al bordillo"
+                },
+                {
+                    "text": "A la izquierda",
+                    "correct": true
+                },
+                {
+                    "text": "A la derecha"
+                },
+                {
+                   "text": "Todo derecho"
+                }
+            ],
+            "explenation": "Cuando un vehículo está estacionado cuesta arriba en una carretera de dos vías con acera, las ruedas delanteras deben girarse hacia la izquierda."
+        },
+        {
+            "id": 58,
+            "question": "Al acercarse a la parte trasera de un autobús escolar detenido que tiene sus luces rojas parpadeando alternativamente activadas, el conductor debe:",
+            "options": [
+                {
+                   "text": "Haga sonar la bocina para alertar a los peatones y rebase a una velocidad lenta"
+                },
+                {
+                    "text": "Deténgase detrás del autobús y espere hasta que las luces rojas alternas dejen de parpadear",
+                    "correct": true
+                },
+                {
+                    "text": "Muévase al carril izquierdo, reduzca la velocidad a 30 km/h y rebase con precaución"
+                },
+                {
+                    "text": "Deténgase detrás del autobús, observe atentamente a los peatones y, si está despejado, pase despacio por delante del autobús"
+                }
+            ],
+            "explenation": "Al acercarse a la parte trasera de un autobús escolar detenido con sus luces rojas parpadeando, el conductor debe detenerse por completo a una distancia segura y no proceder hasta que las luces rojas se apaguen y el autobús reanude su marcha."
+        },
+        {
+            "id": 59,
+            "question": "Al viajar en áreas urbanas, los conductores deben explorar la carretera aproximadamente:",
+            "options": [
+                {
+                    "text": "25 a 30 segundos por delante"
+                },
+                {
+                    "text": "12 a 15 segundos por delante",
+                    "correct": true
+                },
+                {
+                    "text": "20 a 30 segundos por delante"
+                },
+                {
+                    "text": "1 a 6 segundos por delante"
+                }
+            ],
+            "explenation": "Al viajar en áreas urbanas, los conductores deben explorar la carretera aproximadamente 12 a 15 segundos por delante. 👀✔️"
+        },
+        {
+            "id": 60,
+            "question": "Esta señal indica:",
+            "options": [
+                {
+                    "text": "Intersección en T",
+                    "correct": true
+                },
+                {
+                    "text": "Finaliza el carril de tráfico"
+                },
+                {
+                    "text": "Intersección oculta"
+                },
+                {
+                    "text": "Camiones entrando en la autopista adelante"
+                }
+            ],
+            "explenation": "Esta señal indica una Intersección en T y advierte a los conductores que la carretera en la que están viajando termina más adelante.",
+            "image": "/assets/senales/senal_indica_60.png"
+
+        },
+        {
+            "id": 61,
+            "question": "Esta señal indica:",
+            "options": [
+                {
+                    "text": "Sinuoso camino por delante",
+                    "correct": true
+                },
+                {
+                    "text": "Zona de tejido adelante"
+                },
+                {
+                    "text": "Resbaladizo cuando está mojado"
+                },
+                {
+                   "text": "Se permite el cambio de carril"
+                }
+            ],
+            "explenation": "Esta señal indica Sinuoso camino por delante y advierte a los conductores que se aproximan a un tramo de carretera con varias curvas consecutivas 🌄✔️",
+            "image": "/assets/senales/senal_indica_61.png"
+        },
+        {
+            "id": 62,
+            "question": "Antes de dejar un espacio de estacionamiento paralelo en el lado derecho de una carretera:",
+            "options": [
+                {
+                    "text": "Enciende la señal correcta"
+                },
+                {
+                    "text": "Control de hombro a la izquierda",
+                    "correct": true
+                },
+                {
+                    "text": "Comprobación de hombro a la derecha"
+                },
+                {
+                    "text": "Use una señal de brazo hacia afuera y hacia arriba"
+                }
+            ],
+            "explenation": "Antes de dejar un espacio de estacionamiento paralelo en el lado derecho de una carretera, verifica tu entorno mirando por los espejos retrovisores y girando la cabeza para revisar el punto ciego.↩️✔️ "
+        },
+        {
+            "id": 63,
+            "question": "Al acercarse a la cima de una colina en una carretera de dos carriles:",
+            "options": [
+                {
+                    "text": "Se permite exceder el límite de velocidad"
+                },
+                {
+                    "text": "Enciende los faros para advertir a los vehículos que se aproximan"
+                },
+                {
+                    "text": "Manténgase en la parte derecha del carril",
+                    "correct": true
+                },
+                {
+                    "text": "Manténgase cerca de la línea central para evitar que otros pasen"
+                }
+            ],
+            "explenation": "Al acercarse a la cima de una colina en una carretera de dos carriles, reduce la velocidad y mantente en tu carril, ya que la visibilidad es limitada y no puedes ver el tráfico que viene en dirección contraria."
+        },
+        {
+            "id": 64,
+            "question": "Las zonas de juegos están vigentes:",
+            "options": [
+                {
+                    "text": "De 8:30 AM a 1 hora después de la puesta del sol",
+                    "correct": true
+                },
+                {
+                    "text": "De 8:00 AM a 8:00 PM"
+                },
+                {
+                    "text": "Durante el día y hasta las 11:00 PM"
+                },
+                {
+                    "text": "Solo cuando termine la escuela al mediodía y después de las 4:30 PM"
+                }
+            ],
+            "explenation": "Las zonas de juegos están vigentes en Alberta todos los días desde las 8:30 a. m. hasta una hora después de la puesta del sol.⚠️🏀✔️ "
+        },
+        {
+            "id": 65,
+            "question": "Esta señal indica:",
+            "options": [
+                {
+                    "text": "Intersección 'T'"
+                },
+                {
+                    "text": "Sinuoso camino por delante"
+                },
+                {
+                    "text": "Fusionando el tráfico",
+                    "correct": true
+                },
+                {
+                    "text": "La carretera se estrecha a la derecha"
+                }
+            ],
+            "explenation": "Esta señal indica Fusionando el tráfico y advierte a los conductores que un carril se está uniendo al suyo desde la derecha o la izquierda.➡️✔️",
+            "image": "/assets/senales/senal_indica_65.png"
+
+        },
+        {
+            "id": 66,
+            "question": "Según el Manual del conductor con licencia básica, la mayoría de los derrapes son el resultado de:",
+            "options": [
+                {
+                    "text": "Frenos defectuosos"
+                },
+                {
+                    "text": "Caminos helados"
+                },
+                {
+                    "text": "Neumáticos malos"
+                },
+                {
+                    "text": "Error de conductor",
+                    "correct": true
+                }
+            ],
+            "explenation": "Según el Manual del conductor con licencia básica, la mayoría de los derrapes son el resultado de acciones bruscas del conductor, como frenadas repentinas, giros rápidos o aceleraciones inesperadas, especialmente en condiciones de baja tracción.🚗❄️"
+        },
+        {
+            "id": 67,
+            "question": "¿Qué tan cerca puede un conductor estacionar legalmente un vehículo de una señal de alto?",
+            "options": [
+                {
+                    "text": "10 metros"
+                },
+                {
+                    "text": "5 metros",
+                    "correct": true
+                },
+                {
+                    "text": "3 metros"
+                },
+                {
+                    "text": "1,5 metros"
+                }
+            ],
+            "explenation": "En Alberta, es ilegal estacionar un vehículo a menos de 5 metros (16.4 pies) de una señal de alto. Esta distancia permite una visibilidad adecuada de la señal para todos los conductores, garantizando que puedan detenerse de manera segura y ceder el paso según sea necesario.🚗🛑📏"
+        },
+        {
+            "id": 68,
+            "question": "Se permite estacionar en un espacio reservado para personas con discapacidad:",
+            "options": [
+                {
+                    "text": "Cuando todos los demás espacios de estacionamiento estén llenos"
+                },
+                {
+                    "text": "Mientras el conductor espera en el vehículo"
+                },
+                {
+                    "text": "Cuando un conductor se detiene por menos de 5 minutos"
+                },
+                {
+                    "text": "Cuando el vehículo tiene una placa o placa de identificación adecuada",
+                    "correct": true
+                }
+            ],
+            "explenation": "En Alberta, solo se permite estacionar en espacios reservados para personas con discapacidad si el vehículo exhibe una placa o tarjeta de estacionamiento para discapacitados válida y visible, emitida por una autoridad competente.♿🚗"
+        },
+        {
+            "id": 69,
+            "question": "¿A qué distancia mínima deben atenuarse los faros de noche al acercarse a otro vehículo por detrás?",
+            "options": [
+                {
+                    "text": "60 metros"
+                },
+                {
+                    "text": "300 metros"
+                },
+                {
+                    "text": "150 metros",
+                    "correct": true
+                },
+                {
+                    "text": "100 metros"
+                }
+            ],
+            "explenation": "En Alberta, al conducir de noche, debes atenuar tus luces altas a luces bajas cuando te aproximas a otro vehículo por detrás a una distancia de 150 metros (aproximadamente 500 pies).🚗💡🔄"
+        },
+        {
+            "id": 70,
+            "question": "¿Cuándo se permiten giros dobles en una intersección?",
+            "options": [
+                {
+                     "text": "Solo al girar de un camino de un solo sentido a un camino de un solo sentido"
+                },
+                {
+                     "text": "Solo cuando lo indiquen las marcas en el pavimento o las señales de control de tráfico",
+                    "correct": true
+                },
+                {
+                     "text": "Cada vez que haya al menos 2 carriles en la carretera a la que se ingrese"
+                },
+                {
+                     "text": "Solo cuando la carretera tiene 6 o más carriles"
+                }
+            ],
+            "explenation": "Los giros dobles en una intersección están permitidos únicamente cuando hay señales o marcas en el pavimento que lo indiquen claramente.🚗↔️✔️ ",
+            "image": "/assets/senales/senal_indica_70.png"
+
+        },
+        {
+            "id": 71,
+            "question": "Esta señal indica:",
+            "options": [
+                {
+                     "text": "Solo a través del carril"
+                },
+                {
+                     "text": "Pasar permitido"
+                },
+                {
+                     "text": "No se permiten giros"
+                },
+                {
+                     "text": "Tráfico en ambas direcciones",
+                     "correct": true
+                }
+            ],
+            "explenation": "Esta señal indica Tráfico en ambas direcciones y advierte a los conductores que están entrando en una carretera donde los vehículos circulan en direcciones opuestas.",
+            "image": "/assets/senales/senal_indica_71.png"
+        },
+        {
+            "id": 72,
+            "question": "Bajo el programa de Licencias de Conducir Graduadas, un aprendiz con una licencia de operador de Clase 7 es suspendido cuando acumula:",
+            "options": [
+                {
+                     "text": "15 deméritos",
+                     "correct": true
+                },
+                {
+                     "text": "12 deméritos"
+                },
+                {
+                     "text": "8 deméritos"
+                },
+                {
+                     "text": "7 deméritos"
+                }
+            ],
+            "explenation": "Bajo el programa de Licencias de Conducir Graduadas (GDL) en Alberta, un aprendiz con una licencia de Clase 7 enfrenta una suspensión de su licencia al acumular 8 o más puntos de demérito, a diferencia de los 15 puntos permitidos para conductores con licencia completa.⚠️📋"
+        },
+        {
+            "id": 73,
+            "question": "Las señales de límite de velocidad indican:",
+            "options": [
+                {
+                     "text": "La velocidad a la que debe viajar en todas las condiciones de conducción"
+                },
+                {
+                     "text": "La velocidad mínima permitida en todas las carreteras"
+                },
+                {
+                     "text": "La velocidad máxima permitida cuando las condiciones son favorables",
+                    "correct": true
+                },
+                {
+                     "text": "La velocidad máxima permitida excepto al rebasar"
+                }
+            ],
+            "explenation": "Las señales de límite de velocidad indican la velocidad máxima permitida legalmente bajo condiciones ideales de tráfico, clima y carretera.📏✔️"
+        },
+        {
+            "id": 74,
+            "question": "Una 'intersección incontrolada':",
+            "options": [
+                {
+                     "text": "Tiene una luz amarilla intermitente para un sentido del tráfico y una luz roja intermitente para el otro sentido del tráfico"
+                },
+                {
+                     "text": "Tiene señales de tráfico pero no semáforos de control de tráfico"
+                },
+                {
+                     "text": "No tiene semáforos ni señales de tráfico",
+                    "correct": true
+                },
+                {
+                     "text": "Tiene señales de ceder el paso pero no señales de alto"
+                }
+            ],
+            "explenation": "Una 'intersección incontrolada' es una intersección que no cuenta con señales de alto, señales de ceder el paso, semáforos u otros dispositivos de control de tráfico.🔀✔️"
+        },
+        {
+            "id": 75,
+            "question": "Esta señal indica:",
+            "options": [
+                {
+                     "text": "Curva pronunciada a la izquierda en el camino por delante"
+                },
+                {
+                     "text": "Los giros a la izquierda están prohibidos"
+                },
+                {
+                     "text": "Los vehículos pueden girar a la izquierda o seguir recto"
+                },
+                {
+                     "text": "Giro a la izquierda de doble carril",
+                    "correct": true
+                }
+            ],
+            "explenation":"Esta señal indica Giro a la izquierda de doble carril y señala que dos carriles están designados para realizar giros a la izquierda en una intersección.",
+            "image": "/assets/senales/senal_indica_75.png"
+
+        },
+        {
+            "id": 76,
+            "question": "Al enfrentarse a un letrero de Merge, el conductor debe:",
+            "options": [
+                {
+                     "text": "Deténgase en la entrada de la otra carretera y espere hasta que se produzca un espacio en el tráfico antes de continuar"
+                },
+                {
+                     "text": "Esté atento a un espacio en el tráfico en la autopista a la que están ingresando, ajústese a la velocidad de la autopista en el carril de aceleración y camine suavemente",
+                    "correct": true
+                },
+                {
+                     "text": "Deténgase y ceda el paso al tráfico que ya está en la autopista"
+                },
+                {
+                     "text": "Reduzca la velocidad y proceda con precaución"
+                }
+            ],
+            "explenation": "Al enfrentarse a un letrero de Merge (Fusión), el conductor debe buscar un espacio seguro en el tráfico de la autopista, ajustar su velocidad en el carril de aceleración para igualarla con la del tráfico en la autopista y fusionarse de manera suave y controlada."
+        },
+        {
+            "id": 77,
+            "question": "En condiciones de visibilidad reducida debido a la niebla, el humo o la nieve, utilice:",
+            "options": [
+                {
+                     "text": "Luces del parque"
+                },
+                {
+                     "text": "Faros en luz de carretera"
+                },
+                {
+                     "text": "Faros en luz de cruce",
+                    "correct": true
+                },
+                {
+                     "text": "Luces de circulación diurna"
+                }
+            ],
+            "explenation": "En condiciones de visibilidad reducida debido a la niebla, el humo o la nieve, utiliza las luces bajas de tu vehículo.🌫️✔️"
+        },
+        {
+            "id": 78,
+            "question": "Esta señal indica:",
+            "options": [
+                {
+                     "text": "Vehículos de emergencia que ingresan a la calzada"
+                },
+                {
+                     "text": "El carril designado está cerrado"
+                },
+                {
+                     "text": "Cruce ferroviario",
+                    "correct": true
+                },
+                {
+                     "text": "No entrar"
+                }
+            ],
+            "explenation": "Esta señal indica un Cruce ferroviario y advierte a los conductores que se aproximan a un área donde las vías del tren cruzan la carretera. Reduce la velocidad, observa ambos lados antes de cruzar y detente si un tren se aproxima. 🚦🚂✔️",
+            "image": "/assets/senales/senal_indica_78.png"
+
+        },
+        {
+            "id": 79,
+            "question": "¿Puede un conductor girar a la derecha en un semáforo en rojo?",
+            "options": [
+                {
+                     "text": "Sí, pero solo cuando una señal permite tal giro"
+                },
+                {
+                     "text": "Sí, si el conductor reduce la velocidad y no hay tráfico ni peatones en la intersección, y no hay señales que prohíban ese giro",
+                     "correct": true
+                },
+                {
+                     "text": "Sí, si el conductor se detiene y no hay tráfico, peatones o letreros que prohíban ese giro"
+                },
+                {
+                     "text": "No, nunca se permiten giros a la derecha en un semáforo en rojo"
+                }
+            ],
+            "explenation": "Sí, un conductor puede girar a la derecha en un semáforo en rojo, siempre que no haya señales que lo prohíban. Antes de girar, el conductor debe detenerse por completo, ceder el paso a peatones y otros vehículos que tengan el derecho de paso, y solo proceder cuando sea seguro hacerlo. 🚗➡️🔴✔️"
+        },
+        {
+            "id": 80,
+            "question": "Esta señal indica:",
+            "options": [
+                {
+                     "text": "El carril está reservado para el uso de los vehículos especificados",
+                    "correct": true
+                },
+                {
+                     "text": "Solo tráfico unidireccional"
+                },
+                {
+                     "text": "Solo vehículos para coche compartido"
+                },
+                {
+                     "text": "El carril se puede utilizar para vehículos de mercancías peligrosas"
+                }
+            ],
+            "explenation": "Esta señal indica que El carril está reservado para el uso de los vehículos especificados, como autobuses, bicicletas o vehículos de alta ocupación (HOV). 🚗🚲🚌✔️",
+            "image": "/assets/senales/senal_indica_80.png"
+
+        },
+        {
+            "id": 81,
+            "question": "Cuando un vehículo se detiene para permitir que un peatón cruce la calle, otros vehículos que se acercan por la parte trasera:",
+            "options": [
+                {
+                     "text": "Puede rebasar al vehículo detenido si no hay tráfico en sentido contrario que pueda impedir el paso de manera segura"
+                },
+                {
+                     "text": "No debe rebasar el vehículo detenido. Es ilegal",
+                    "correct": true
+                },
+                {
+                     "text": "Puede rebasar al vehículo detenido cuando se hace contacto visual con el peatón y el peatón se detiene"
+                },
+                {
+                     "text": "Puede pasar el vehículo detenido cuando la señal de cruce de peatones ha cambiado a 'No camine'"
+                }
+            ],
+            "explenation": "Cuando un vehículo se detiene para permitir que un peatón cruce la calle, otros vehículos que se acercan por detrás deben detenerse también. Intentar adelantar al vehículo detenido es ilegal y extremadamente peligroso, ya que podría poner en riesgo al peatón.🛑✔️"
+        },
+        {
+            "id": 82,
+            "question": "Cuando un apoyacabezas se levanta a la posición correcta, el centro del apoyacabezas es:",
+            "options": [
+                {
+                     "text": "Nivel con la parte superior de las orejas",
+                    "correct": true
+                },
+                {
+                     "text": "Al nivel de la parte superior de los hombros"
+                },
+                {
+                     "text": "Al nivel del cuello"
+                },
+                {
+                     "text": "Nivel con la parte superior de la cabeza"
+                }
+            ],
+            "explenation": "Cuando un apoyacabezas se levanta a la posición correcta, el centro del apoyacabezas debe estar alineado con la parte superior de las orejas del conductor o pasajero.🚗🪑✔️"
+        },
+        {
+            "id": 83,
+            "question": "Esta señal indica:",
+            "options": [
+                {
+                     "text": "Más adelante zona de escuela"
+                },
+                {
+                     "text": "Camiones de registro de precaución girando"
+                },
+                {
+                     "text": "Advertencia anticipada de la señal de control de tráfico",
+                    "correct": true 
+                },
+                {
+                     "text": "Paso de peatones adelante"
+                }
+            ],
+            "explenation": "Esta señal indica Advertencia anticipada de la señal de control de tráfico y alerta a los conductores que se aproximan a una intersección controlada por un semáforo. Reduce la velocidad, prepárate para detenerte y presta atención a las señales de tráfico. Esto garantiza una conducción segura y evita frenadas repentinas. 🚦⚠️✔️",
+            "image": "/assets/senales/senal_indica_83.png"
+        },
+        {
+            "id": 84,
+            "question": "Cuando se coloca un letrero de 'PASANDO POR EL CARRIL ADELANTE', el conductor de un vehículo que se mueve más lento debe:",
+            "options": [
+                {
+                     "text": "Use el carril derecho y reduzca su velocidad a la mitad del límite de velocidad publicado"
+                },
+                {
+                     "text": "Use solo el carril izquierdo"
+                },
+                {
+                     "text": "Aumentar la velocidad"
+                },
+                {
+                     "text": "Muévase al carril derecho cuando sea seguro",
+                    "correct": true
+                }
+            ],
+            "explenation": "Cuando se coloca un letrero de PASANDO POR EL CARRIL ADELANTE, el conductor de un vehículo que se mueve más lento debe cambiar al carril derecho para permitir que los vehículos más rápidos lo adelanten de manera segura. Esto ayuda a mantener un flujo de tráfico eficiente y reduce el riesgo de congestiones o accidentes. 🚗➡️✔️"
+        },
+        {
+            "id": 85,
+            "question": "Al acercarse a la parte trasera de un autobús escolar que muestra luces ámbar intermitentes alternas, el conductor debe:",
+            "options": [
+                {
+                     "text": "Esté preparado para detenerse, ya que esta es una advertencia de que las luces rojas intermitentes alternas se encenderán una vez que el autobús se haya detenido",
+                    "correct": true
+                },
+                {
+                     "text": "Esté preparado para detenerse, ya que esto podría ser una advertencia de que hay una colisión más adelante y el tráfico se ha detenido"
+                },
+                {
+                     "text": "Deténgase inmediatamente porque el autobús escolar está subiendo o bajando estudiantes"
+                },
+                {
+                     "text": "Tenga cuidado ya que el autobús escolar se acerca a un cruce de ferrocarril y está a punto de detenerse"
+                }
+            ],
+            "explenation": "Al acercarse a la parte trasera de un autobús escolar con luces ámbar intermitentes alternas, el conductor debe reducir la velocidad y prepararse para detenerse."
+        },
+        {
+            "id": 86,
+            "question": "En el Manual del conductor con licencia básica, 'horario nocturno' se define como el período de tiempo:",
+            "options": [
+                {
+                     "text": "Comenzando 1 hora antes del atardecer y terminando 1 hora después del siguiente amanecer"
+                },
+                {
+                     "text": "Comenzando al atardecer y terminando al siguiente amanecer"
+                },
+                {
+                     "text": "Entre las 7:00 p.m. y las 7:00 a.m."
+                },
+                {
+                     "text": "Comenzando 1 hora después de la puesta del sol y terminando 1 hora antes del siguiente amanecer",
+                     "correct": true
+                }
+            ],
+            "explenation": "En el Manual del Conductor con Licencia Básica de Alberta, el término horario nocturno se refiere al período comprendido entre una hora después de la puesta del sol y una hora antes de su salida.🚗🌙🔆"
+        },
+        {
+            "id": 87,
+            "question": "Esta señal indica:",
+            "options": [
+                {
+                     "text": "Sin tráfico o giros a la derecha"
+                },
+                {
+                     "text": "Gire a la izquierda o siga recto"
+                },
+                {
+                     "text": "Gire de un camino de un solo sentido a un camino de un solo sentido"
+                },
+                {
+                     "text": "Directo o giro a la derecha",
+                    "correct": true
+                }
+            ],
+            "explenation": "",
+            "image": "/assets/senales/senal_indica_87.png"
+
+        },
+        {
+            "id": 88,
+            "question": "Un vehículo que sale de un estacionamiento hacia una carretera:",
+            "options": [
+                {
+                     "text": "Debe detenerse solo si hay una señal de alto"
+                },
+                {
+                     "text": "Debe detenerse por completo",
+                    "correct": true
+                },
+                {
+                     "text": "Debe detenerse antes de cruzar la acera solo si hay peatones presentes"
+                },
+                {
+                     "text": "No es necesario que se detenga"
+                }
+            ],
+            "explenation": "Un vehículo que sale de un estacionamiento hacia una carretera debe detenerse por completo antes de ingresar al tráfico. Esto permite al conductor ceder el paso a peatones, ciclistas y vehículos que ya están en la carretera. Detenerse asegura una incorporación segura y ordenada al flujo vehicular. 🚗🛑✔️"
+        },
+        {
+            "id": 89,
+            "question": "Al acercarse a un cruce ferroviario que tiene la luz roja intermitente y la campana activada:",
+            "options": [
+                {
+                     "text": "Cruce las vías si el tren está a un mínimo de 250 metros de distancia"
+                },
+                {
+                     "text": "Reduzca la velocidad, compruebe si hay trenes y luego continúe por las vías"
+                },
+                {
+                     "text": "No te detengas y no cambies de marcha mientras cruzas las vías"
+                },
+                {
+                     "text": "Deténgase al menos a 5 metros del riel más cercano hasta que el tren haya pasado",
+                    "correct": true
+                }
+            ],
+            "explenation": "Al acercarse a un cruce ferroviario con luces rojas intermitentes y campana activada, el conductor debe detenerse completamente antes del cruce y no proceder hasta que las luces y la campana se apaguen y sea seguro cruzar.🚦🚂"
+        },
+        {
+            "id": 90,
+            "question": "El método recomendado para viajar a través de una curva en una carretera es:",
+            "options": [
+                {
+                     "text": "Reduzca la velocidad antes de la curva, permanezca en el carril y acelere suavemente después de entrar en la curva",
+                    "correct": true
+                },
+                {
+                     "text": "Mantenga la velocidad antes de la curva, frene en la curva, mire hacia adelante y acelere fuera de la curva"
+                },
+                {
+                     "text": "Cubra el pedal del freno antes de la curva, gire en sentido contrario hacia el exterior del carril y acelere al salir"
+                },
+                {
+                     "text": "Acelere antes de la curva, cubra el pedal del freno en la curva y acelere después de salir de la curva"
+                }
+            ],
+            "explenation": "El método recomendado para viajar a través de una curva en una carretera es reducir la velocidad antes de entrar en la curva, mantener una velocidad constante mientras recorres la curva y acelerar suavemente al salir.➡️✔️"
+        },
+        {
+            "id": 91,
+            "question": "Esta señal indica:",
+            "options": [
+                {
+                     "text": "Ceda el paso a los peatones y al tráfico"
+                },
+                {
+                     "text": "Rótulo de vehículo de mercancías peligrosas: gas inflamable"
+                },
+                {
+                     "text": "Vehículo de movimiento lento",
+                    "correct": true
+                },
+                {
+                     "text": "Advertencia, ceda el paso adelante"
+                }
+            ],
+            "explenation": "Esta señal indica Vehículo de movimiento lento y se encuentra en la parte trasera de vehículos que viajan a velocidades más bajas, como tractores o maquinaria agrícola. Reduce la velocidad y prepárate para adelantar con seguridad solo cuando sea permitido y seguro hacerlo. 🚜⚠️✔️",
+            "image": "/assets/senales/senal_indica_91.png"
+
+        },
+        {
+            "id": 92,
+            "question": "¿Por qué no es seguro adelantar a un camión de transporte de troncos cargado que está girando?",
+            "options": [
+                {
+                     "text": "El conductor del camión debe concentrarse completamente en la curva y no necesita la responsabilidad adicional de un vehículo que pasa"
+                },
+                {
+                     "text": "Los camiones de transporte de troncos cargados obedecen la regla de los 6 segundos para los giros"
+                },
+                {
+                     "text": "Existe una zona de peligro ya que el saliente de los troncos desde la parte trasera del camión podría bloquear todos los carriles de una carretera durante el giro",
+                    "correct": true
+                },
+                {
+                     "text": "Es ilegal hacerlo"
+                }
+            ],
+            "explenation": "No es seguro adelantar a un camión de transporte de troncos cargado que está girando porque los troncos pueden sobresalir y moverse durante el giro, ocupando espacio en otros carriles y aumentando el riesgo de colisión.⚠️✔️"
+        },
+        {
+            "id": 93,
+            "question": "Esta señal indica:",
+            "options": [
+                {
+                     "text": "Zona de juegos más adelante"
+                },
+                {
+                     "text": "Paso de peatones adelante"
+                },
+                {
+                    "text": "Parada del autobús escolar más adelante",
+                    "correct": true
+                },
+                {
+                     "text": "Más adelante zona de escuela"
+                }
+            ],
+            "explenation": "Esta señal indica Parada del autobús escolar más adelante y advierte a los conductores que se aproximan a un área donde los autobuses escolares recogen o dejan estudiantes. Reduce la velocidad, permanece atento y prepárate para detenerte si el autobús escolar enciende sus luces rojas intermitentes o extiende la señal de alto. 🚍🚸⚠️",
+            "image": "/assets/senales/senal_indica_93.png"
+
+        },
+        {
+            "id": 94,
+            "question": "Al encontrarse con una procesión fúnebre que está cruzando una intersección:",
+            "options": [
+                {
+                     "text": "Haga sonar la bocina antes de continuar"
+                },
+                {
+                     "text": "Continúe con la procesión fúnebre solo cuando haya suficiente espacio entre los vehículos"
+                },
+                {
+                     "text": "Ceder el paso y no atravesar la procesión",
+                    "correct": true
+                },
+                {
+                     "text": "Encienda las luces altas antes de continuar"
+                }
+            ],
+            "explenation": "Al encontrarse con una procesión fúnebre que está cruzando una intersección, debes ceder el paso y no atravesar la procesión. Es una muestra de respeto y está permitido por ley que las procesiones mantengan su continuidad. Espera hasta que la procesión haya pasado por completo antes de proceder. 🚗⚰️🛑"
+        },
+        {
+            "id": 95,
+            "question": "Si las llantas derechas del vehículo se salen de la parte pavimentada de la carretera:",
+            "options": [
+                {
+                     "text": "Aplique los frenos y gire en sentido contrario para regresar a la parte pavimentada de la carretera"
+                },
+                {
+                     "text": "Mantenga un agarre firme en el volante, suelte el pedal del acelerador y luego regrese gradualmente a la parte pavimentada de la carretera"
+                },
+                {
+                     "text": "Acelere ligeramente, luego gire el volante bruscamente para regresar a la parte pavimentada de la carretera",
+                     "correct": true
+                },
+                {
+                     "text": "Mueva el vehículo completamente fuera de la parte pavimentada, luego diríjase de regreso a la parte pavimentada de la carretera"
+                }
+            ],
+            "explenation": "Si las llantas derechas del vehículo se salen de la parte pavimentada de la carretera, mantén la calma y sujeta el volante con firmeza. Reduce gradualmente la velocidad levantando el pie del acelerador, pero no frenes bruscamente.🛣️✔️ "
+        },
+        {
+            "id": 96,
+            "question": "El letrero indica:",
+            "options": [
+                {
+                     "text": "Una zona escolar"
+                },
+                {
+                     "text": "Paso de peatones de la escuela más adelante",
+                    "correct": true
+                },
+                {
+                     "text": "Zona de juegos"
+                },
+                {
+                     "text": "Luces activadas por peatones adelante"
+                }
+            ],
+            "explenation": "Este letrero indica Paso de peatones de la escuela más adelante y advierte a los conductores que están cerca de una zona escolar donde los estudiantes pueden cruzar la calle. Reduce la velocidad, permanece atento y prepárate para detenerte si hay niños o guardias escolares cruzando. 🚸🏫✔️",
+            "image": "/assets/senales/senal_indica_96.png"
+
+        },
+        {
+            "id": 97,
+            "question": "Al completar un estacionamiento en ángulo, ¿la rueda delantera del vehículo debe estar dentro de qué distancia máxima del bordillo más cercano?",
+            "options": [
+                {
+                     "text": "100 cm"
+                },
+                {
+                     "text": "50 cm",
+                    "correct": true
+                },
+                {
+                     "text": "25 cm"
+                },
+                {
+                     "text": "75 cm"
+                }
+            ],
+            "explenation": "Al completar un estacionamiento en ángulo, las ruedas delanteras del vehículo deben estar dentro de 50 centímetros (aproximadamente 20 pulgadas) del bordillo más cercano. Esto asegura que el vehículo esté correctamente alineado y no obstruya el flujo del tráfico. Estacionar adecuadamente ayuda a mantener la seguridad y orden en la vía pública. 🚗🅿️✔️"
+        },
+        {
+            "id": 98,
+            "question": "En un área urbana, cuando un peatón está parado en un cruce de peatones con su brazo levantado aproximadamente en ángulo recto con su cuerpo y apuntando hacia la acera opuesta, ¿qué significa esto?",
+            "options": [
+                {
+                     "text": "Los conductores deben detenerse y ceder el paso al peatón",
+                    "correct": true
+                },
+                {
+                     "text": "El peatón tiene una discapacidad visual y necesita ayuda para cruzar la calle"
+                },
+                {
+                     "text": "Los conductores no tienen que ceder el paso al peatón hasta que se bajan de la acera"
+                },
+                {
+                     "text": "Los conductores deben reducir la velocidad a 20 km/h y tener cuidado al pasar al peatón"
+                }
+            ],
+            "explenation": "En un área urbana, cuando un peatón está parado en un cruce de peatones con su brazo levantado aproximadamente en ángulo recto y apuntando hacia la acera opuesta, indica su intención de cruzar la calle. Los conductores deben detenerse por completo y ceder el paso al peatón, permitiéndole cruzar de manera segura antes de continuar. 🚶‍♂️🛑✔️"
+        },
+        {
+            "id": 99,
+            "question": "Esta señal indica:",
+            "options": [
+                {
+                     "text": "Termina el pavimento"
+                },
+                {
+                     "text": "Zona de construcción más adelante"
+                },
+                {
+                     "text": "Callejón sin salida",
+                    "correct": true
+                },
+                {
+                     "text": "Marcador de peligro"
+                }
+            ],
+            "explenation": "Esta señal indica Callejón sin salida y advierte a los conductores que la carretera no tiene salida más adelante. Si ingresas, prepárate para dar la vuelta al final del camino. Esta señal es común en zonas residenciales y áreas sin conexión a otras vías. 🚗⛔✔️",
+            "image": "/assets/senales/senal_indica_98.png"
+
+        },
+        {
+            "id": 100,
+            "question": "Esta señal indica:",
+            "options": [
+                {
+                     "text": "Fin de la autopista dividida"
+                },
+                {
+                     "text": "Comienza la carretera dividida",
+                    "correct": true
+                },
+                {
+                     "text": "Obstrucción - pase por la izquierda"
+                },
+                {
+                     "text": "Tráfico en ambas direcciones"
+                }
+            ],
+            "explenation": "Esta señal indica Comienza la carretera dividida y advierte a los conductores que la carretera se separa en dos direcciones, dividida por una mediana o barrera. Mantente en tu lado de la carretera y presta atención a las señales adicionales que guíen tu ruta. 🚗⤴️⤵️✔️",
+            "image": "/assets/senales/senal_indica_99.png"
+
+        },
+        {
+            "id": 101,
+            "question": "Al acercarse a una intersección con un semáforo amarillo fijo:",
+            "options": [
+                {
+                     "text": "Continúe ya que la luz está a punto de ponerse verde"
+                },
+                {
+                     "text": "Ceda el paso a los vehículos de la derecha"
+                },
+                {
+                     "text": "Deténgase antes de la intersección a menos que no pueda detenerse con seguridad",
+                    "correct": true
+                },
+                {
+                     "text": "Aumente la velocidad para despejar la intersección"
+                }
+            ],
+            "explenation": "Al acercarse a una intersección con un semáforo amarillo fijo, el conductor debe reducir la velocidad y prepararse para detenerse antes de entrar en la intersección, a menos que sea inseguro hacerlo. Un semáforo amarillo fijo indica que la luz roja está a punto de aparecer, por lo que es esencial actuar con precaución y no acelerar para cruzar. 🚦🛑✔️"
+        },
+        {
+            "id": 102,
+            "question": "Una línea amarilla continua junto con una línea amarilla discontinua marcada en el centro de una carretera significa:",
+            "options": [
+                {
+                     "text": "El camino se estrecha más adelante"
+                },
+                {
+                     "text": "Si la línea continua está de su lado, se permite pasar"
+                },
+                {
+                     "text": "Si la línea discontinua está de su lado, no se permite adelantar"
+                },
+                {
+                     "text": "Si la línea discontinua está de su lado, se permite pasar",
+                    "correct": true
+                }
+            ],
+            "explenation": "Una línea amarilla continua junto con una línea amarilla discontinua marcada en el centro de una carretera significa que los vehículos del lado de la línea discontinua pueden adelantar si es seguro hacerlo, pero los vehículos del lado de la línea continua no pueden adelantar. Esta señal divide los carriles de tráfico que van en direcciones opuestas y regula los adelantamientos para mayor seguridad. 🚗⬅️❌✔️"
+        },
+        {
+            "id": 103,
+            "question": "A las 9:00 AM en un día escolar, ¿cuál es la velocidad máxima permitida en una zona escolar en un área rural, a menos que se indique lo contrario?",
+            "options": [
+                {
+                     "text": "50 km/h"
+                },
+                {
+                     "text": "20 km/h"
+                },
+                {
+                     "text": "40 km/h"
+                },
+                {
+                     "text": "30 km/h",
+                    "correct": true
+                }
+            ],
+            "explenation": "En Alberta, la velocidad máxima permitida en una zona escolar en un área rural, a menos que se indique lo contrario, es de 30 km/h. Este límite de velocidad está vigente en días escolares durante los horarios especificados en la señalización correspondiente."
+        },
+        {
+            "id": 104,
+            "question": "En una carretera de dos carriles, al adelantar a otros vehículos que viajan en la misma dirección, un conductor:",
+            "options": [
+                {
+                     "text": "Debería pasar por la izquierda cuando esté seguro",
+                    "correct": true
+                },
+                {
+                     "text": "Debería pasar por la derecha cuando esté seguro"
+                },
+                {
+                     "text": "Siempre debe viajar 30 km/h más rápido que el vehículo al que se adelanta"
+                },
+                {
+                     "text": "No deben salir para rebasar hasta que estén a menos de 3 metros del vehículo que está rebasando"
+                }
+            ],
+            "explenation": "En una carretera de dos carriles, al adelantar a otros vehículos que viajan en la misma dirección, un conductor debe asegurarse de que el carril contrario esté despejado, utilizar las señales direccionales para indicar su intención y adelantar de manera segura y eficiente."
+        },
+        {
+            "id": 105,
+            "question": "Esta señal indica:",
+            "options": [
+                {
+                     "text": "Instalaciones todoterreno"
+                },
+                {
+                     "text": "Servicios hospitalarios",
+                    "correct": true
+                },
+                {
+                     "text": "Servicios hoteleros"
+                },
+                {
+                     "text": "Marcador de ruta de la carretera principal"
+                }
+            ],
+            "explenation": "Esta señal indica Servicios hospitalarios y señala la ubicación de un hospital cercano. Es útil para los conductores que buscan atención médica o emergencias.🏥✔️",
+            "image": "/assets/senales/senal_indica_105.png"
+
+        },
+        {
+            "id": 106,
+            "question": "¿Qué distancia mínima de una boca de incendios debe estar estacionado un vehículo?",
+            "options": [
+                {
+                     "text": "3 metros"
+                },
+                {
+                     "text": "4 metros"
+                },
+                {
+                     "text": "2 metros"
+                },
+                {
+                     "text": "5 metros",
+                    "correct": true
+                }
+            ],
+            "explenation": "En Alberta, es ilegal estacionar un vehículo a menos de 5 metros (16 pies) de una boca de incendios. Esta distancia permite a los bomberos acceder rápidamente al suministro de agua en caso de emergencia.🚒🧯 "
+        },
+        {
+            "id": 107,
+            "question": "Esta señal indica:",
+            "options": [
+                {
+                     "text": "Signo de construcción, persona de la bandera por delante"
+                },
+                {
+                     "text": "Señal de construcción, desvío por delante"
+                },
+                {
+                     "text": "Precaución, roca cayendo por delante"
+                },
+                {
+                     "text": "Signo de construcción, gente trabajando por delante",
+                    "correct": true
+                }
+            ],
+            "explenation": "Esta señal indica Zona de construcción, gente trabajando por delante y advierte a los conductores que se aproximan a un área donde se están realizando trabajos en la carretera.. 🚧👷‍♂️✔️",
+            "image": "/assets/senales/senal_indica_107.png"
+        },
+        {
+            "id": 108,
+            "question": "Si un conductor está siendo seguido por un vehículo que intenta rebasar en una carretera de doble sentido, el conductor debe:",
+            "options": [
+                {
+                     "text": "Manténgase en el carril y muévase a la parte izquierda del carril"
+                },
+                {
+                     "text": "Manténgase en el carril y muévase a la parte derecha del carril",
+                    "correct": true
+                },
+                {
+                     "text": "Encienda la señal de la izquierda y permanezca en el carril"
+                },
+                {
+                     "text": "Encienda la señal derecha y conduzca por el carril de estacionamiento"
+                }
+            ],
+            "explenation": "Si un conductor está siendo seguido por un vehículo que intenta rebasar en una carretera de doble sentido, debe mantenerse en su carril, reducir ligeramente la velocidad si es necesario y permitir que el vehículo que rebasa complete la maniobra de manera segura. ⬅️✔️"
+        }
+  
+    ]
+}
