@@ -170,9 +170,9 @@
 }
 
 .checkbox-wrapper {
-  position: relative;
-  display: block;
-  overflow: hidden;
+  display: flex; 
+  align-items: center; 
+  gap: 10px; 
   padding: 1px;
   border-radius: 5px;
   transition: background-color .3s, color .3s
