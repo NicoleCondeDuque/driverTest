@@ -25,6 +25,7 @@ export class QuestionsComponent implements OnInit{
   image: any;
   progress: string = "0";
   isQuizCompleted : boolean = false;
+  isExplanationVisible: boolean = false;
 
 constructor( private questionService: QuestionService, private router: Router) {}
 
@@ -117,9 +118,16 @@ startQuiz() {
   this.getAllQuestions(); 
 }
 
-
 goToHome() {
   this.router.navigate(['/welcome']); 
+}
+
+showExplanation() {
+  this.isExplanationVisible = true;
+}
+
+closeExplanation() {
+  this.isExplanationVisible = false;
 }
 
 }
