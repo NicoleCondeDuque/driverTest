@@ -6,6 +6,9 @@ import{CommonModule}from '@angular/common';
 import { Router } from '@angular/router';
 
 
+
+
+
 @Component({
   selector: 'app-questions',
   standalone: true,
@@ -24,8 +27,8 @@ export class QuestionsComponent implements OnInit{
   inCorrectAnswer:number = 0;
   image: any;
   progress: string = "0";
-  isQuizCompleted : boolean = false;
   isExplanationVisible: boolean = false;
+  isQuizCompleted: boolean = false;
 
 constructor( private questionService: QuestionService, private router: Router) {}
 
@@ -35,7 +38,7 @@ ngOnInit(): void {
   this.startCounter();
 }
 getAllQuestions() {
-  this.questionService.getQuestionsJson().subscribe((res) => {
+this.questionService.getQuestionsJson().subscribe((res) => {
 this.questionList = res.questions;
   });
 }
@@ -43,32 +46,29 @@ nextQuestion() {
   if (this.currentQuestion < this.questionList.length - 1) {
     this.currentQuestion++;
   } else {
-    this.isQuizCompleted = true; 
-    this.stopCounter(); 
-    console.log('Quiz completed!');
-  }
+    this.isQuizCompleted = true;
+    this.stopCounter();
 }
+}
+
 previousQuestion() {  
  this.currentQuestion--;
 }
 
 selectOption(currentQno: number, option: any) {
-  if (currentQno + 1 === this.questionList.length) {
+  if (currentQno === this.questionList.length) {
     console.log('Quiz completed!');
     this.isQuizCompleted = true; 
     this.stopCounter(); 
-    return; 
    }
   this.questionList[currentQno].options.forEach((opt: any) => (opt.selected = false));
   option.selected = true;
   if (option.correct) {
     this.points += 10; 
     this.correctAnswer++; 
-    this.questionList[currentQno].showExplanation = true;
-
   } else {
     this.inCorrectAnswer++; 
-    this.questionList[currentQno].showExplanation = false; 
+   
   }
 
   this.getProgressPercent();

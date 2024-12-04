@@ -133,7 +133,7 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: space-between;
+  justify-content: center;
   text-align: center;
 }
 
@@ -217,3 +217,7 @@ input.form-control {
   border: 1px solid #ccc;
   border-radius: 5px;
 }
+
+
+
+
