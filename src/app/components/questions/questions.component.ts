@@ -7,8 +7,6 @@ import { Router } from '@angular/router';
 
 
 
-
-
 @Component({
   selector: 'app-questions',
   standalone: true,
@@ -16,12 +14,13 @@ import { Router } from '@angular/router';
   templateUrl: './questions.component.html',
   styleUrl: './questions.component.css'
 })
+
 export class QuestionsComponent implements OnInit{
 
   public name: string ="";
   public questionList: any = []; 
   public currentQuestion: number = 0;
-  public points: number =0;
+  public points: number = 0;
   counter = 108;
   correctAnswer:number = 0;
   inCorrectAnswer:number = 0;
@@ -38,8 +37,10 @@ ngOnInit(): void {
   this.startCounter();
 }
 getAllQuestions() {
-this.questionService.getQuestionsJson().subscribe((res) => {
-this.questionList = res.questions;
+  this.questionService.getQuestionsJson().subscribe((res) => {
+    this.questionList = res.questions.map((question: any) => ({
+      ...question,
+      isAnswered: false,  }));
   });
 }
 nextQuestion() {
@@ -50,25 +51,25 @@ nextQuestion() {
     this.stopCounter();
 }
 }
-
 previousQuestion() {  
  this.currentQuestion--;
 }
-
 selectOption(currentQno: number, option: any) {
-  if (currentQno === this.questionList.length) {
-    console.log('Quiz completed!');
-    this.isQuizCompleted = true; 
-    this.stopCounter(); 
-   }
-  this.questionList[currentQno].options.forEach((opt: any) => (opt.selected = false));
+  const currentQuestion = this.questionList[currentQno];
+  if (currentQuestion.isAnswered) {
+    return; 
+  }
+  currentQuestion.isAnswered = true;
+  currentQuestion.options.forEach((opt: any) => (opt.selected = false));
   option.selected = true;
   if (option.correct) {
-    this.points += 10; 
-    this.correctAnswer++; 
+    this.points += 10;
+    this.correctAnswer++;
+    // alert('¡Respuesta correcta! Puedes continuar a la siguiente pregunta.');
   } else {
-    this.inCorrectAnswer++; 
-   
+    this.inCorrectAnswer++;
+    // const restart = confirm(
+    //   'Respuesta incorrecta. Puedes continuar a la siguiente pregunta o reiniciar el juego si deseas');
   }
 
   this.getProgressPercent();
@@ -91,22 +92,19 @@ resetCounter() {
   this.counter = 108;
   this.startCounter();
 }
-
 resetQuiz(){
   this.resetCounter();
     this.getAllQuestions();
     this.points = 0;
-    this.counter = 60;
+    this.counter = 0;
     this.currentQuestion = 0;
     this.progress = "0";
 
 }
-
 getProgressPercent() {
   this.progress = ((this.currentQuestion / this.questionList.length) * 100).toString();
   return this.progress;
 }
-
 startQuiz() {
   this.isQuizCompleted = false; 
   this.points = 0; 
