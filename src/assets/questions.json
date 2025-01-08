@@ -2203,7 +2203,27 @@
                 }
             ],
             "explenation": "Si un conductor está siendo seguido por un vehículo que intenta rebasar en una carretera de doble sentido, debe mantenerse en su carril, reducir ligeramente la velocidad si es necesario y permitir que el vehículo que rebasa complete la maniobra de manera segura. ⬅️✔️"
+        },
+        {
+            "id": 109,
+            "question": "¿Cuáles son los puntos de alcoholímetro permitidos en Alberta?",
+            "options": [
+                {
+                    "text": "0.05 - 0.08 BAC",
+                    "correct": true
+                },
+                {
+                    "text": "0.08 - 0.10 BAC"
+                },
+                {
+                    "text": "0.10 - 0.15 BAC"
+                },
+                {
+                    "text": "0.00 - 0.05 BAC"
+                }
+            ],
+            "explenation": "En Alberta, los conductores pueden enfrentar advertencias a partir de 0.05 BAC. A partir de 0.08 BAC, se aplican sanciones penales estrictas y otras medidas de acuerdo con las leyes de tráfico."
         }
-  
+
     ]
 }
