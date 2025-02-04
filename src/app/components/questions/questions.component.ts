@@ -4,6 +4,8 @@ import {MatStepperModule} from '@angular/material/stepper';
 import {QuestionService } from '../service/question.service';
 import{CommonModule}from '@angular/common'; 
 import { Router } from '@angular/router';
+import { MatSnackBar } from '@angular/material/snack-bar';
+
 
 
 
@@ -29,7 +31,7 @@ export class QuestionsComponent implements OnInit{
   isExplanationVisible: boolean = false;
   isQuizCompleted: boolean = false;
 
-constructor( private questionService: QuestionService, private router: Router) {}
+constructor( private questionService: QuestionService, private router: Router, private snackBar: MatSnackBar) {}
 
 ngOnInit(): void {
   this.name = localStorage.getItem('name')!;
@@ -56,24 +58,34 @@ previousQuestion() {
 }
 selectOption(currentQno: number, option: any) {
   const currentQuestion = this.questionList[currentQno];
+  
   if (currentQuestion.isAnswered) {
     return; 
   }
+
   currentQuestion.isAnswered = true;
   currentQuestion.options.forEach((opt: any) => (opt.selected = false));
   option.selected = true;
+
   if (option.correct) {
     this.points += 10;
     this.correctAnswer++;
-    // alert('¡Respuesta correcta! Puedes continuar a la siguiente pregunta.');
+    this.snackBar.open('✅ ¡Respuesta correcta! Puedes continuar a la siguiente pregunta.', 'Cerrar', {
+      duration: 3000,
+      panelClass: ['success-snackbar']
+    });
   } else {
     this.inCorrectAnswer++;
-    // const restart = confirm(
-    //   'Respuesta incorrecta. Puedes continuar a la siguiente pregunta o reiniciar el juego si deseas');
+    
+    this.snackBar.open('❌ Respuesta incorrecta. Puedes leer la explicación o reiniciar el juego.', 'Cerrar', {
+      duration: 5000,
+      panelClass: ['error-snackbar']
+    })
   }
 
   this.getProgressPercent();
 }
+
 
 startCounter() { 
   this.counter--;
