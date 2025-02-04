@@ -218,6 +218,19 @@ input.form-control {
   border-radius: 5px;
 }
 
+.footer-container {
+  margin-top: 40px;
+  text-align: center;
+  font-size: 11px;
+  color: #555;
+  line-height: 1rem;
+}
 
+.footer-text a {
+  color: orange;
+  text-decoration: none;
+}
 
-
+.footer-text a:hover {
+  text-decoration: underline;
+}
