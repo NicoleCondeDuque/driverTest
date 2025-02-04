@@ -198,9 +198,9 @@
 }
 
 .welcome-title {
-  font-size: 1.8rem;
+  font-size: 1.5rem;
   font-weight: bold;
-  color: #000000;
+  color:orange;
   margin-bottom: 10px;
 }
 
@@ -233,4 +233,11 @@ input.form-control {
 
 .footer-text a:hover {
   text-decoration: underline;
+}
+
+.list-intructions {
+  list-style-type: disc;
+  margin-left: 20px;
+  font-size: 0.8rem;
+  line-height: 1rem;
 }
