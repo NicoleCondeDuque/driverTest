@@ -245,10 +245,25 @@ input.form-control {
 
 @media screen and (max-width: 480px) {
   .footer-container {
-    margin-top: 15px; 
+    margin-top: 11px; 
   }
 
   .welcome-title {
     font-size: 1rem; 
+  }
+  .list-intructions {
+    font-size: 0.7rem;
+    line-height: 1rem;
+  }
+  .section-instructions{
+    margin-top: -7px;
+  }
+  .name{
+    margin-top: -10px;
+  }
+
+  .footer-text {
+   font-size: 0.5rem;
+   line-height: 0.7rem;
   }
 }
